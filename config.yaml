@@ -1,0 +1,97 @@
+# ===== 旅行セール監視の設定 =====
+# 通知先URLはここに書かず、GitHub の Secrets に登録します（README参照）
+
+# 記事タイトルにこれらのどれかが含まれるものだけ拾う
+include_keywords:
+  - セール
+  - SALE
+  - タイムセール
+  - キャンペーン
+  - 半額
+  - 割引
+  - クーポン
+
+# これが含まれると「予告・開始」として優先表示＆通知に★が付く
+announce_keywords:
+  - 予告
+  - 開始
+  - スタート
+  - 開催へ
+  - 開催決定
+  - 発売
+  - 先行
+  - まもなく
+  - 明日から
+  - 本日から
+
+# これが含まれる記事は無視
+exclude_keywords:
+  - 終了しました
+  - 株価
+  - 決算
+
+# Google ニュースで検索するワード（直近7日の記事を取得）
+google_news_queries:
+  - 航空券 セール
+  - LCC セール 開始
+  - ANA タイムセール
+  - JAL タイムセール
+  - ピーチ セール
+  - ジェットスター セール
+  - スプリングジャパン セール
+  - ZIPAIR セール
+  - スターフライヤー セール
+  - 楽天トラベル スーパーSALE
+  - じゃらん セール
+  - 一休 タイムセール
+  - Expedia セール
+  - ホテル セール 予約開始
+  - 海外航空券 セール
+
+# 旅行ニュースサイトなどのRSS（取得に失敗しても他は続行します）
+rss_feeds:
+  - name: Traicy
+    url: https://www.traicy.com/feed
+  - name: Aviation Wire
+    url: https://www.aviationwire.jp/feed
+  - name: たびりす
+    url: https://tabiris.com/feed
+
+# ===== 航空会社の公式サイトを直接見る =====
+# ページ内の「セール」「販売期間」などを含む文を集め、前回なかった文が出てきたら新着にします。
+# 読み取れているかどうかは、一覧ページ下の「見ているサイト」で確認できます。
+# 追加したいサイトがあれば、同じ形で name と url を足してください。
+watch_pages:
+  # --- ANA（セール専用ページ。販売期間や「販売開始予定」が載ります）
+  - name: ANA 国内線タイムセール
+    url: https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/
+  - name: ANA 国際線タイムセール
+    url: https://www.ana.co.jp/ja/jp/international/theme/special_prj/
+  - name: ANA 国内ツアータイムセール
+    url: https://www.ana.co.jp/ja/jp/domestic/theme/timesale/domtour/
+  # --- JAL
+  - name: JAL 国内線タイムセール
+    url: https://www.jal.co.jp/jp/ja/dom/special/timesale/
+  # --- Peach（セールごとにページが変わるので、トップとセールページの両方）
+  - name: Peach トップ
+    url: https://www.flypeach.com/
+  - name: Peach セール
+    url: https://www.flypeach.com/um/specials/sale/sale
+  # --- その他の航空会社（トップページのセールの告知を見ます）
+  - name: ジェットスター
+    url: https://www.jetstar.com/jp/ja/deals
+  - name: スカイマーク
+    url: https://www.skymark.co.jp/ja/
+  - name: ZIPAIR
+    url: https://www.zipair.net/ja
+  - name: スプリング・ジャパン
+    url: https://jp.ch.com/
+  - name: スターフライヤー
+    url: https://www.starflyer.jp/
+  - name: ソラシドエア
+    url: https://www.solaseedair.jp/
+  - name: AIRDO
+    url: https://www.airdo.jp/
+
+# 一覧ページに載せる期間（日）
+keep_days: 45

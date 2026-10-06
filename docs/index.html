@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="ja"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#111111" media="(prefers-color-scheme: dark)">
+<title>旅行セール</title>
+<style>
+:root{
+  --bg:#ffffff; --bg2:#f7f8fa; --fill:#f1f2f4; --ink:#111111; --sub:#777b82; --mute:#a3a7ad;
+  --line:#efefef; --red:#ff334b; --green:#06c755;
+  box-sizing:border-box; padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#111111; --bg2:#1b1c1e; --fill:#232427; --ink:#f2f3f5; --sub:#9a9ea5; --mute:#6b6f76; --line:#232427;}}
+:root[data-theme="dark"]{--bg:#111111; --bg2:#1b1c1e; --fill:#232427; --ink:#f2f3f5; --sub:#9a9ea5; --mute:#6b6f76; --line:#232427;}
+*{box-sizing:border-box}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font:15px/1.5 -apple-system,BlinkMacSystemFont,"Hiragino Sans","Hiragino Kaku Gothic ProN","Noto Sans JP",Meiryo,sans-serif;
+  -webkit-font-smoothing:antialiased;font-feature-settings:"palt"}
+a{color:inherit;text-decoration:none}
+:focus-visible{outline:2px solid var(--green);outline-offset:2px}
+.wrap{max-width:640px;margin:0 auto}
+
+header{padding:28px 20px 6px}
+h1{margin:0;font-size:26px;font-weight:800;letter-spacing:-.01em}
+.updated{margin:4px 0 0;font-size:12px;color:var(--mute)}
+.summary{display:flex;gap:10px;margin:18px 0 0}
+.sum{flex:1;background:var(--bg2);border-radius:12px;padding:12px 14px}
+.sum b{display:block;font-size:22px;font-weight:800;font-variant-numeric:tabular-nums}
+.sum span{font-size:12px;color:var(--sub)}
+
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg)}
+.search-box{padding:14px 20px 4px}
+.search{width:100%;height:40px;padding:0 14px;font:inherit;font-size:14px;color:var(--ink);background:var(--fill);border:0;border-radius:10px}
+.search::placeholder{color:var(--mute)}
+.tabs{display:flex;gap:22px;padding:0 20px;overflow-x:auto;scrollbar-width:none;border-bottom:1px solid var(--line)}
+.tabs::-webkit-scrollbar{display:none}
+.tab{flex:none;font:inherit;font-size:15px;font-weight:600;color:var(--mute);background:none;border:0;
+  padding:12px 0 10px;border-bottom:2px solid transparent;cursor:pointer}
+.tab[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--ink);font-weight:800}
+
+section{padding-top:8px}
+h2{display:flex;justify-content:space-between;align-items:baseline;margin:0;padding:22px 20px 6px;font-size:18px;font-weight:800}
+h2 span{font-size:13px;font-weight:500;color:var(--sub)}
+.day{padding:8px 20px;font-size:12px;font-weight:700;color:var(--sub);background:var(--bg2)}
+
+.cell{display:flex;gap:14px;align-items:center;padding:14px 20px;border-bottom:1px solid var(--line)}
+.cell:active{background:var(--bg2)}
+.logo{flex:none;width:44px;height:44px;border-radius:12px;background:var(--brand);color:#fff;
+  display:grid;place-items:center;font-size:10.5px;font-weight:800;letter-spacing:-.02em;text-align:center;line-height:1.1}
+.logo.dark-text{color:#1a1a1a}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .logo{box-shadow:inset 0 0 0 1px rgba(255,255,255,.14)}}
+:root[data-theme="dark"] .logo{box-shadow:inset 0 0 0 1px rgba(255,255,255,.14)}
+.small .logo{width:36px;height:36px;border-radius:10px;font-size:9px}
+.main{flex:1;min-width:0}
+.t{font-size:15px;font-weight:700;line-height:1.45;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.small .t{font-weight:500;font-size:14.5px}
+.s{margin-top:2px;font-size:13px;color:var(--sub);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.m{margin-top:4px;display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:12px;color:var(--mute)}
+.new{color:var(--red);font-weight:800}
+.tag{padding:1px 6px;border-radius:4px;background:var(--fill);color:var(--sub);font-weight:600;font-size:11px}
+
+.cd{flex:none;text-align:right;min-width:62px}
+.cd small{display:block;font-size:11px;color:var(--sub)}
+.cd b{display:block;font-size:24px;font-weight:800;line-height:1.15;color:var(--brand-ink);font-variant-numeric:tabular-nums}
+.cd b i{font-style:normal;font-size:12px;margin-left:1px}
+.cd .live{display:inline-block;padding:1px 6px;border-radius:4px;background:var(--red);color:#fff;font-weight:700}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .cd b{color:color-mix(in srgb,var(--brand) 62%,#fff)}}
+:root[data-theme="dark"] .cd b{color:color-mix(in srgb,var(--brand) 62%,#fff)}
+
+.empty{margin:8px 20px;padding:28px 16px;text-align:center;color:var(--sub);font-size:14px;background:var(--bg2);border-radius:12px}
+details{margin:28px 20px 0;background:var(--bg2);border-radius:12px}
+summary{padding:14px 16px;font-size:14px;font-weight:700;cursor:pointer;list-style:none;display:flex;justify-content:space-between}
+summary::-webkit-details-marker{display:none}
+summary span{font-weight:500;color:var(--sub)}
+.site{display:flex;gap:10px;padding:10px 16px;border-top:1px solid var(--line);font-size:13px}
+.site i{font-style:normal;font-weight:800;color:var(--green)}.site.ng i{color:var(--red)}
+.site small{display:block;color:var(--sub);font-size:12px}
+footer{padding:18px 20px 44px;font-size:12px;color:var(--mute);line-height:1.6}
+[hidden]{display:none!important}
+</style></head><body>
+<div class="wrap">
+<header>
+  <h1>旅行セール</h1>
+  <p class="updated">10月6日 20:47 更新</p>
+  <div class="summary">
+    <div class="sum"><b>0</b><span>これから始まる</span></div>
+    <div class="sum"><b>0</b><span>24時間の新着</span></div>
+  </div>
+</header>
+<div class="bar">
+  <div class="search-box"><input class="search" id="q" type="search" placeholder="航空会社・行き先で検索" aria-label="キーワードで絞り込み"></div>
+  <div class="tabs" role="tablist" aria-label="種類で絞り込み">
+    <button class="tab" role="tab" data-f="all" aria-selected="true">すべて</button>
+    <button class="tab" role="tab" data-f="new" aria-selected="false">新着</button>
+    <button class="tab" role="tab" data-f="flight" aria-selected="false">航空券</button>
+    <button class="tab" role="tab" data-f="hotel" aria-selected="false">ホテル・ツアー</button>
+    <button class="tab" role="tab" data-f="official" aria-selected="false">公式の告知</button>
+  </div>
+</div>
+<main>
+  <section><h2>これから始まるセール<span>開始が近い順</span></h2><p class="empty">日付つきの予告はまだありません</p></section>
+  <section><h2>最近の記事</h2><p class="empty">まだ記事がありません</p></section>
+  <p class="empty" id="nohit" hidden>条件に合うセールはありません</p>
+  <details><summary>見ているサイト<span>0 / 16 読めています</span></summary><div class="site ng"><i>×</i><div><a href="https://www.traicy.com/feed" target="_blank" rel="noopener">Traicy</a><small>取得失敗</small></div></div><div class="site ng"><i>×</i><div><a href="https://www.aviationwire.jp/feed" target="_blank" rel="noopener">Aviation Wire</a><small>取得失敗</small></div></div><div class="site ng"><i>×</i><div><a href="https://tabiris.com/feed" target="_blank" rel="noopener">たびりす</a><small>取得失敗</small></div></div><div class="site ng"><i>×</i><div><a href="https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/" target="_blank" rel="noopener">ANA 国内線タイムセール</a><small>取得失敗</small></div></div><div class="site ng"><i>×</i><div><a href="https://www.ana.co.jp/ja/jp/international/theme/special_prj/" target="_blank" rel="noopener">ANA 国際線タイムセール</a><small>取得失敗</small></div></div><div class="site ng"><i>×</i><div><a href="https://www.ana.co.jp/ja/jp/domestic/theme/timesale/domtour/" target="_blank" rel="noopener">ANA 国内ツアータイムセール</a><small>取得失敗</small></div></div><div class="site ng"><i>×</i><div><a href="https://www.jal.co.jp/jp/ja/dom/special/timesale/" target="_blank" rel="noopener">JAL 国内線タイムセール</a><small>取得失敗</small></div></div><div class="site ng"><i>×</i><div><a href="https://www.flypeach.com/" target="_blank" rel="noopener">Peach トップ</a><small>取得失敗</small></div></div><div class="site ng"><i>×</i><div><a href="https://www.flypeach.com/um/specials/sale/sale" target="_blank" rel="noopener">Peach セール</a><small>取得失敗</small></div></div><div class="site ng"><i>×</i><div><a href="https://www.jetstar.com/jp/ja/deals" target="_blank" rel="noopener">ジェットスター</a><small>取得失敗</small></div></div><div class="site ng"><i>×</i><div><a href="https://www.skymark.co.jp/ja/" target="_blank" rel="noopener">スカイマーク</a><small>取得失敗</small></div></div><div class="site ng"><i>×</i><div><a href="https://www.zipair.net/ja" target="_blank" rel="noopener">ZIPAIR</a><small>取得失敗</small></div></div><div class="site ng"><i>×</i><div><a href="https://jp.ch.com/" target="_blank" rel="noopener">スプリング・ジャパン</a><small>取得失敗</small></div></div><div class="site ng"><i>×</i><div><a href="https://www.starflyer.jp/" target="_blank" rel="noopener">スターフライヤー</a><small>取得失敗</small></div></div><div class="site ng"><i>×</i><div><a href="https://www.solaseedair.jp/" target="_blank" rel="noopener">ソラシドエア</a><small>取得失敗</small></div></div><div class="site ng"><i>×</i><div><a href="https://www.airdo.jp/" target="_blank" rel="noopener">AIRDO</a><small>取得失敗</small></div></div></details>
+</main>
+<footer>ニュースと各社公式サイトの文章から自動で集めています。日付を読み違えることがあるため、予約前にリンク先で条件を確認してください。</footer>
+</div>
+<script>
+(function(){
+  var DAY=864e5,today=new Date();today.setHours(0,0,0,0);
+  function md(d){return (d.getMonth()+1)+'/'+d.getDate()+'('+'日月火水木金土'[d.getDay()]+')';}
+  document.querySelectorAll('.cell[data-start]').forEach(function(c){
+    var s=new Date(c.dataset.start+'T00:00:00'),e=new Date(c.dataset.end+'T00:00:00'),cd=c.querySelector('.cd');
+    var ds=Math.round((s-today)/DAY),de=Math.round((e-today)/DAY);
+    if(ds>0) cd.innerHTML='<small>開始まで</small><b>'+ds+'<i>日</i></b><small>'+md(s)+'</small>';
+    else if(ds===0) cd.innerHTML='<small>今日から</small><b>開始</b><small>'+md(s)+'</small>';
+    else if(de>=0) cd.innerHTML='<small><span class="live">開催中</span></small><b>'+de+'<i>日</i></b><small>'+md(e)+'まで</small>';
+    else {c.hidden=true;c.dataset.gone='1';}
+  });
+  var q=document.getElementById('q'),f='all';
+  function apply(){
+    var v=q.value.trim().toLowerCase(),shown=0;
+    document.querySelectorAll('[data-text]').forEach(function(el){
+      if(el.dataset.gone)return;
+      var ok=(!v||el.dataset.text.indexOf(v)>=0)&&(f==='all'||(f==='new'?el.dataset.new==='1':el.dataset.cat===f));
+      el.hidden=!ok;if(ok)shown++;
+    });
+    document.querySelectorAll('.day').forEach(function(h){
+      var n=h.nextElementSibling,any=false;
+      while(n&&!n.classList.contains('day')){if(!n.hidden&&n.dataset.text)any=true;n=n.nextElementSibling;}
+      h.hidden=!any;
+    });
+    document.getElementById('nohit').hidden=shown>0;
+  }
+  q.addEventListener('input',apply);
+  document.querySelectorAll('.tab').forEach(function(t){
+    t.addEventListener('click',function(){
+      document.querySelectorAll('.tab').forEach(function(x){x.setAttribute('aria-selected','false');});
+      t.setAttribute('aria-selected','true');f=t.dataset.f;apply();
+    });
+  });
+})();
+</script></body></html>
