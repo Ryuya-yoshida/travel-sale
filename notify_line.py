@@ -30,33 +30,38 @@ def md(iso: str) -> str:
 
 
 def build_message(state: dict) -> str:
-    items = list(state["items"].values())
+    import main as watcher  # 一覧ページと同じ「まとめ方」を使う
+
     since = state.get("last_notified") or (NOW - timedelta(hours=24)).isoformat()
     today = NOW.date().isoformat()
     week_later = (NOW.date() + timedelta(days=7)).isoformat()
+    groups = watcher.group_items(list(state["items"].values()))
 
-    new = sorted([i for i in items if i.get("first_seen", "") > since],
-                 key=lambda i: (not i["announce"], i["published"]), reverse=False)
-    soon = sorted([i for i in items if any(today <= d <= week_later for d in i["dates"])],
-                  key=lambda i: min(d for d in i["dates"] if d >= today))
+    new = [g for g in groups if g["first_seen"] > since]
+    new.sort(key=lambda g: (not g["start"], g["start"] or "", g["published"]))
+    soon = sorted([g for g in groups if g["start"] and today <= g["start"] <= week_later],
+                  key=lambda g: g["start"])
+
+    def line(g: dict) -> str:
+        head, sub = watcher.split_title(g["rep"])
+        title = f"{head} {sub}".strip()
+        d = f"（販売 {md(g['start'])}〜）" if g["start"] and g["start"] >= today else ""
+        rel = f" ほか{len(g['members']) - 1}件" if len(g["members"]) > 1 else ""
+        return f"・{title}{d}{rel}\n{g['rep']['link']}"
 
     lines = [f"✈️ 旅行セールのお知らせ {NOW.month}/{NOW.day}"]
-
     lines.append(f"\n■ 新着 {len(new)}件")
     if not new:
-        lines.append("新しい記事はありませんでした")
-    for i in new[:MAX_NEW]:
-        mark = "★" if i["announce"] else "・"
-        d = f"（{md(min(i['dates']))}〜）" if i["dates"] else ""
-        lines.append(f"{mark}{i['title']}{d}\n{i['link']}")
+        lines.append("新しいセール情報はありませんでした")
+    lines += [line(g) for g in new[:MAX_NEW]]
     if len(new) > MAX_NEW:
         lines.append(f"…ほか{len(new) - MAX_NEW}件は一覧ページで")
 
     if soon:
-        lines.append("\n■ 1週間以内に始まるセール")
-        for i in soon[:10]:
-            first = min(d for d in i["dates"] if d >= today)
-            lines.append(f"{md(first)} {i['title']}")
+        lines.append("\n■ 1週間以内に販売開始")
+        for g in soon[:10]:
+            head, _ = watcher.split_title(g["rep"])
+            lines.append(f"{md(g['start'])} {head}")
 
     page = os.getenv("PAGE_URL")
     if page:
