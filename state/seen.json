@@ -2579,6 +2579,20 @@
    "dates": [],
    "travel": [],
    "first_seen": "2026-10-11T02:17:55.129324+09:00"
+  },
+  "1546a36decc94078": {
+   "id": "1546a36decc94078",
+   "title": "高速バスが最大56%オフ！WILLER TRAVELのビッグセールは10月7日スタート《プレセールは10月5日から》 - ライブドアニュース",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wTU84VnZ3eXpEYklhZ0RpUEdKTWsyb2ZWR1VFZUM4dVFhdS0xOTNnOHNQVDdkdVVxSEdrU3E0QWowdTJ4YVNFd1hpRjUyYU1MdEVGTENDMmJsVUFrY2c?oc=5",
+   "source": "ライブドアニュース",
+   "published": "2026-10-05T15:16:00+09:00",
+   "announce": true,
+   "dates": [
+    "2026-10-05",
+    "2026-10-07"
+   ],
+   "travel": [],
+   "first_seen": "2026-10-11T11:12:27.141143+09:00"
   }
  },
  "pages": {
@@ -2668,97 +2682,97 @@
    "url": "https://www.traicy.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-10-11T06:32:58.151614+09:00"
+   "checked": "2026-10-11T11:12:27.141143+09:00"
   },
   "Aviation Wire": {
    "url": "https://www.aviationwire.jp/feed",
    "ok": true,
    "note": "記事 10件",
-   "checked": "2026-10-11T06:32:58.151614+09:00"
+   "checked": "2026-10-11T11:12:27.141143+09:00"
   },
   "たびりす": {
    "url": "https://tabiris.com/feed",
    "ok": true,
    "note": "記事 15件",
-   "checked": "2026-10-11T06:32:58.151614+09:00"
+   "checked": "2026-10-11T11:12:27.141143+09:00"
   },
   "ANA 国内線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/",
    "ok": true,
    "note": "セール関連の文 23件",
-   "checked": "2026-10-11T06:32:58.151614+09:00"
+   "checked": "2026-10-11T11:12:27.141143+09:00"
   },
   "ANA 国際線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/international/theme/special_prj/",
    "ok": true,
    "note": "セール関連の文 6件",
-   "checked": "2026-10-11T06:32:58.151614+09:00"
+   "checked": "2026-10-11T11:12:27.141143+09:00"
   },
   "ANA 国内ツアータイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/domtour/",
    "ok": true,
    "note": "セール関連の文 11件",
-   "checked": "2026-10-11T06:32:58.151614+09:00"
+   "checked": "2026-10-11T11:12:27.141143+09:00"
   },
   "JAL 国内線タイムセール": {
    "url": "https://www.jal.co.jp/jp/ja/dom/special/timesale/",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-10-11T06:32:58.151614+09:00"
+   "checked": "2026-10-11T11:12:27.141143+09:00"
   },
   "Peach トップ": {
    "url": "https://www.flypeach.com/",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-10-11T06:32:58.151614+09:00"
+   "checked": "2026-10-11T11:12:27.141143+09:00"
   },
   "Peach セール": {
    "url": "https://www.flypeach.com/um/specials/sale/sale",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-10-11T06:32:58.151614+09:00"
+   "checked": "2026-10-11T11:12:27.141143+09:00"
   },
   "ジェットスター": {
    "url": "https://www.jetstar.com/jp/ja/deals",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-10-11T06:32:58.151614+09:00"
+   "checked": "2026-10-11T11:12:27.141143+09:00"
   },
   "スカイマーク": {
    "url": "https://www.skymark.co.jp/ja/",
    "ok": true,
    "note": "セール関連の文 3件",
-   "checked": "2026-10-11T06:32:58.151614+09:00"
+   "checked": "2026-10-11T11:12:27.141143+09:00"
   },
   "ZIPAIR": {
    "url": "https://www.zipair.net/ja",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-10-11T06:32:58.151614+09:00"
+   "checked": "2026-10-11T11:12:27.141143+09:00"
   },
   "スプリング・ジャパン": {
    "url": "https://jp.ch.com/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-10-11T06:32:58.151614+09:00"
+   "checked": "2026-10-11T11:12:27.141143+09:00"
   },
   "スターフライヤー": {
    "url": "https://www.starflyer.jp/",
    "ok": true,
    "note": "セール関連の文 5件",
-   "checked": "2026-10-11T06:32:58.151614+09:00"
+   "checked": "2026-10-11T11:12:27.141143+09:00"
   },
   "ソラシドエア": {
    "url": "https://www.solaseedair.jp/",
    "ok": true,
    "note": "セール関連の文 5件",
-   "checked": "2026-10-11T06:32:58.151614+09:00"
+   "checked": "2026-10-11T11:12:27.141143+09:00"
   },
   "AIRDO": {
    "url": "https://www.airdo.jp/",
    "ok": true,
    "note": "セール関連の文 2件",
-   "checked": "2026-10-11T06:32:58.151614+09:00"
+   "checked": "2026-10-11T11:12:27.141143+09:00"
   }
  }
 }
