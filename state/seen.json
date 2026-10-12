@@ -2735,6 +2735,52 @@
    "dates": [],
    "travel": [],
    "first_seen": "2026-10-12T19:37:46.219734+09:00"
+  },
+  "c5bd004320af514f": {
+   "id": "c5bd004320af514f",
+   "title": "【ケンタッキー】カーネルクリスピー半額！1ピース140円、10月13日まで - ほんみや宮崎",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96cjVmTURfV2JxUnNfUzNMU2NpRjlwa0VfUXJ5MUhoaHlDQ0FOZHM2TDA0clhXUjNGaVZDdTlSaGE3Zk9JNkZyVE11RU5aSm9Fd0RoUkd0c0hVVWlWc1l5WTJVQV9HTjN4NWRwSGluVlZLbE5qbDNldjdVTQ?oc=5",
+   "source": "ほんみや宮崎",
+   "published": "2026-10-09T07:46:14+09:00",
+   "announce": false,
+   "dates": [
+    "2026-10-13"
+   ],
+   "travel": [],
+   "first_seen": "2026-10-13T06:13:11.733023+09:00"
+  },
+  "8cbc67e7016a7366": {
+   "id": "8cbc67e7016a7366",
+   "title": "【2026年10月最新】JTBのクーポンコード一覧！｜初回・2回目以降の割引情報＆使い方をまとめて紹介 - ライブドアニュース",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iTEYwNmpwLUYxaWcxQVFNZkNzd2Zwd3RKSGZNQXFJcUtkMXB2TE0wRGw0RUFDdEpOODF6ZHVTbGVkV19zU0tQR0o1NWJrMVVFMVpwMGNPNlRLSDdaU3lZ?oc=5",
+   "source": "ライブドアニュース",
+   "published": "2026-10-09T18:00:00+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-10-13T06:13:11.733023+09:00"
+  },
+  "52c3ca02bc6ce011": {
+   "id": "52c3ca02bc6ce011",
+   "title": "【Amazonセール】AIスマートグラス「Ray-Ban Meta（Gen 2）」シリーズがお買い得【プライム感謝祭2026】 - ライブドアニュース",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YS0tCaTZaLUVUeE84VjdaZFpTNFhnLTNuSVhzZmtPZ2Vva0k4SlNhTGxtN0FNdjNMd1E2dVRSYnhrQllVWDdYZ3ZrYkdURkJLalBsNEhJRTFNTklDc0d6MXQxNTVlR2lxa3VEZ2hNYllUcE1Tb19oWg?oc=5",
+   "source": "ライブドアニュース",
+   "published": "2026-10-13T00:05:00+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-10-13T06:13:11.733023+09:00"
+  },
+  "44a7b0bd10b12422": {
+   "id": "44a7b0bd10b12422",
+   "title": "【Amazonセール】GRAPHTのモニターアームがお買い得。「Aero M9C」や「Aero M9TQ」がラインナップ【プライム感謝祭2026】 - GAME Watch",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12TzJuN1hFMWNHUXF4NnVoTVpLRk9RTWtubTdpd2l6cEV1bDVKX1p1b1VhQXpTNVE1SWhMVDJXZkRTYjZFT2RULXlPcGtIeUN0TjNEekRXWmZlWFA3NWlrWVdwdWM3dw?oc=5",
+   "source": "GAME Watch",
+   "published": "2026-10-13T00:05:00+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-10-13T06:13:11.733023+09:00"
   }
  },
  "pages": {
@@ -2824,97 +2870,97 @@
    "url": "https://www.traicy.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-10-12T19:37:46.219734+09:00"
+   "checked": "2026-10-13T06:13:11.733023+09:00"
   },
   "Aviation Wire": {
    "url": "https://www.aviationwire.jp/feed",
    "ok": true,
    "note": "記事 10件",
-   "checked": "2026-10-12T19:37:46.219734+09:00"
+   "checked": "2026-10-13T06:13:11.733023+09:00"
   },
   "たびりす": {
    "url": "https://tabiris.com/feed",
    "ok": true,
    "note": "記事 15件",
-   "checked": "2026-10-12T19:37:46.219734+09:00"
+   "checked": "2026-10-13T06:13:11.733023+09:00"
   },
   "ANA 国内線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/",
    "ok": true,
    "note": "セール関連の文 23件",
-   "checked": "2026-10-12T19:37:46.219734+09:00"
+   "checked": "2026-10-13T06:13:11.733023+09:00"
   },
   "ANA 国際線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/international/theme/special_prj/",
    "ok": true,
    "note": "セール関連の文 6件",
-   "checked": "2026-10-12T19:37:46.219734+09:00"
+   "checked": "2026-10-13T06:13:11.733023+09:00"
   },
   "ANA 国内ツアータイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/domtour/",
    "ok": true,
    "note": "セール関連の文 11件",
-   "checked": "2026-10-12T19:37:46.219734+09:00"
+   "checked": "2026-10-13T06:13:11.733023+09:00"
   },
   "JAL 国内線タイムセール": {
    "url": "https://www.jal.co.jp/jp/ja/dom/special/timesale/",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-10-12T19:37:46.219734+09:00"
+   "checked": "2026-10-13T06:13:11.733023+09:00"
   },
   "Peach トップ": {
    "url": "https://www.flypeach.com/",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-10-12T19:37:46.219734+09:00"
+   "checked": "2026-10-13T06:13:11.733023+09:00"
   },
   "Peach セール": {
    "url": "https://www.flypeach.com/um/specials/sale/sale",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-10-12T19:37:46.219734+09:00"
+   "checked": "2026-10-13T06:13:11.733023+09:00"
   },
   "ジェットスター": {
    "url": "https://www.jetstar.com/jp/ja/deals",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-10-12T19:37:46.219734+09:00"
+   "checked": "2026-10-13T06:13:11.733023+09:00"
   },
   "スカイマーク": {
    "url": "https://www.skymark.co.jp/ja/",
    "ok": true,
    "note": "セール関連の文 3件",
-   "checked": "2026-10-12T19:37:46.219734+09:00"
+   "checked": "2026-10-13T06:13:11.733023+09:00"
   },
   "ZIPAIR": {
    "url": "https://www.zipair.net/ja",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-10-12T19:37:46.219734+09:00"
+   "checked": "2026-10-13T06:13:11.733023+09:00"
   },
   "スプリング・ジャパン": {
    "url": "https://jp.ch.com/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-10-12T19:37:46.219734+09:00"
+   "checked": "2026-10-13T06:13:11.733023+09:00"
   },
   "スターフライヤー": {
    "url": "https://www.starflyer.jp/",
    "ok": true,
    "note": "セール関連の文 5件",
-   "checked": "2026-10-12T19:37:46.219734+09:00"
+   "checked": "2026-10-13T06:13:11.733023+09:00"
   },
   "ソラシドエア": {
    "url": "https://www.solaseedair.jp/",
    "ok": true,
    "note": "セール関連の文 5件",
-   "checked": "2026-10-12T19:37:46.219734+09:00"
+   "checked": "2026-10-13T06:13:11.733023+09:00"
   },
   "AIRDO": {
    "url": "https://www.airdo.jp/",
    "ok": true,
    "note": "セール関連の文 2件",
-   "checked": "2026-10-12T19:37:46.219734+09:00"
+   "checked": "2026-10-13T06:13:11.733023+09:00"
   }
  }
 }
