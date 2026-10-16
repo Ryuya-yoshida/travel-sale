@@ -4050,6 +4050,55 @@
    "dates": [],
    "travel": [],
    "first_seen": "2026-10-16T20:13:21.976907+09:00"
+  },
+  "f568f58f6c5d07d5": {
+   "id": "f568f58f6c5d07d5",
+   "title": "ANA、国内線航空券タイムセール。羽田～福岡/長崎/熊本は片道1万1000円～、12～3月搭乗分 (トラベル Watch) - Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONE14NW5WanNWMTl6T2VIV0lmSTNIRTVIcEhzdS0ySmlQLVJ4NzczZFIwamVpRU0tWVJQRzhqZU9pZkhISGQxRDVqQkJDbzFPc3RRMWdwS1EwRGI0a1VsRG1sUk5JQWlKYzFoMTJEb19hU0N5Q1dKY3I0SzhzRG9jd0N0YkRGR285a2pyVUtB?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-16T12:03:00+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-10-17T01:31:57.711038+09:00"
+  },
+  "2733faff52c9b375": {
+   "id": "2733faff52c9b375",
+   "title": "Peach、国内線を対象に片道4,000円からのセールを開催中 - sky-budget.com",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYbGlaalBUZ1lpazRkT3JDbzFlNGVqOGM0eTRsb01FakZxYjVVN25pWmxSdzl0VF9QMjdsX0ZySnRfb01waHQyQl9VbzN3NUxBVHdJc2Y0ejdnQ1I3Y3dfTU9yQQ?oc=5",
+   "source": "sky-budget.com",
+   "published": "2026-10-16T21:37:00+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-10-17T01:31:57.711038+09:00"
+  },
+  "527ddeae06f5635d": {
+   "id": "527ddeae06f5635d",
+   "title": "キャンペーン：ANA「国内線タイムセール」がスタート 冬から春の撮影遠征に 10月22日まで販売中 (2026年10月16日掲載) - ライブドアニュース",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBweFdkcXdzbU9RenNMYi1sOFVEZjFfSkJScEFKRmFEakVLQm0xd1pDd2RkcU1EZ2d0bV9menY3ZXkxTUJnYkQ0X3kweHN0OUNEZjVIR0NoOTN1UjVsUHc?oc=5",
+   "source": "ライブドアニュース",
+   "published": "2026-10-16T15:34:37+09:00",
+   "announce": true,
+   "dates": [
+    "2026-10-16",
+    "2026-10-22"
+   ],
+   "travel": [],
+   "first_seen": "2026-10-17T01:31:57.711038+09:00"
+  },
+  "99157304331a4a50": {
+   "id": "99157304331a4a50",
+   "title": "【ピザハット】Mサイズピザ対象6種が最大53%オフ！Sサイズ価格で楽しめる「秋のサイズアップ 特大セール」は10月27日まで。 - 東京バーゲンマニア",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xQzJaNHROMGJmbENwcTFvbDRjajdqNmRVVEUwZEoybkxiaFFzM2hNQi1qMENVWmRHMm9rbENBSEFqc1FZc2oxcldpQm1mdmppdmdF?oc=5",
+   "source": "東京バーゲンマニア",
+   "published": "2026-10-16T17:02:00+09:00",
+   "announce": false,
+   "dates": [
+    "2026-10-27"
+   ],
+   "travel": [],
+   "first_seen": "2026-10-17T01:31:57.711038+09:00"
   }
  },
  "pages": {
@@ -4149,97 +4198,97 @@
    "url": "https://www.traicy.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-10-16T20:13:21.976907+09:00"
+   "checked": "2026-10-17T01:31:57.711038+09:00"
   },
   "Aviation Wire": {
    "url": "https://www.aviationwire.jp/feed",
    "ok": true,
    "note": "記事 10件",
-   "checked": "2026-10-16T20:13:21.976907+09:00"
+   "checked": "2026-10-17T01:31:57.711038+09:00"
   },
   "たびりす": {
    "url": "https://tabiris.com/feed",
-   "ok": false,
-   "note": "ConnectTimeout",
-   "checked": "2026-10-16T20:13:21.976907+09:00"
+   "ok": true,
+   "note": "記事 15件",
+   "checked": "2026-10-17T01:31:57.711038+09:00"
   },
   "ANA 国内線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/",
    "ok": true,
    "note": "セール関連の文 25件",
-   "checked": "2026-10-16T20:13:21.976907+09:00"
+   "checked": "2026-10-17T01:31:57.711038+09:00"
   },
   "ANA 国際線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/international/theme/special_prj/",
    "ok": true,
    "note": "セール関連の文 15件",
-   "checked": "2026-10-16T20:13:21.976907+09:00"
+   "checked": "2026-10-17T01:31:57.711038+09:00"
   },
   "ANA 国内ツアータイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/domtour/",
    "ok": true,
    "note": "セール関連の文 11件",
-   "checked": "2026-10-16T20:13:21.976907+09:00"
+   "checked": "2026-10-17T01:31:57.711038+09:00"
   },
   "JAL 国内線タイムセール": {
    "url": "https://www.jal.co.jp/jp/ja/dom/special/timesale/",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-10-16T20:13:21.976907+09:00"
+   "checked": "2026-10-17T01:31:57.711038+09:00"
   },
   "Peach トップ": {
    "url": "https://www.flypeach.com/",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-10-16T20:13:21.976907+09:00"
+   "checked": "2026-10-17T01:31:57.711038+09:00"
   },
   "Peach セール": {
    "url": "https://www.flypeach.com/um/specials/sale/sale",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-10-16T20:13:21.976907+09:00"
+   "checked": "2026-10-17T01:31:57.711038+09:00"
   },
   "ジェットスター": {
    "url": "https://www.jetstar.com/jp/ja/deals",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-10-16T20:13:21.976907+09:00"
+   "checked": "2026-10-17T01:31:57.711038+09:00"
   },
   "スカイマーク": {
    "url": "https://www.skymark.co.jp/ja/",
    "ok": true,
    "note": "セール関連の文 3件",
-   "checked": "2026-10-16T20:13:21.976907+09:00"
+   "checked": "2026-10-17T01:31:57.711038+09:00"
   },
   "ZIPAIR": {
    "url": "https://www.zipair.net/ja",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-10-16T20:13:21.976907+09:00"
+   "checked": "2026-10-17T01:31:57.711038+09:00"
   },
   "スプリング・ジャパン": {
    "url": "https://jp.ch.com/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-10-16T20:13:21.976907+09:00"
+   "checked": "2026-10-17T01:31:57.711038+09:00"
   },
   "スターフライヤー": {
    "url": "https://www.starflyer.jp/",
    "ok": true,
    "note": "セール関連の文 5件",
-   "checked": "2026-10-16T20:13:21.976907+09:00"
+   "checked": "2026-10-17T01:31:57.711038+09:00"
   },
   "ソラシドエア": {
    "url": "https://www.solaseedair.jp/",
    "ok": true,
    "note": "セール関連の文 4件",
-   "checked": "2026-10-16T20:13:21.976907+09:00"
+   "checked": "2026-10-17T01:31:57.711038+09:00"
   },
   "AIRDO": {
    "url": "https://www.airdo.jp/",
    "ok": true,
    "note": "セール関連の文 2件",
-   "checked": "2026-10-16T20:13:21.976907+09:00"
+   "checked": "2026-10-17T01:31:57.711038+09:00"
   }
  }
 }
