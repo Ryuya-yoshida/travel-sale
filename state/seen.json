@@ -4557,6 +4557,17 @@
    ],
    "travel": [],
    "first_seen": "2026-10-20T17:25:04.155045+09:00"
+  },
+  "b832c026a3b61e76": {
+   "id": "b832c026a3b61e76",
+   "title": "卒業旅行の予約もこの秋がお得。最大5,000円割引「秋の割引キャンペーン」を開催 - PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uZV9nVkJDVVE2emhmYW0tUUxwbFAySnNRdjI4QWRZN0VMVWplLTNBWWVWZ243YXV5cHY4cWlaUTJfRnRfSHVZSTc4dXZBS2hwd1JYalhZVThMT1AtbWZlS1k2WkpULW5zZGc?oc=5",
+   "source": "PR TIMES",
+   "published": "2026-10-20T14:14:58+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-10-20T23:15:20.595877+09:00"
   }
  },
  "pages": {
@@ -4656,97 +4667,97 @@
    "url": "https://www.traicy.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-10-20T17:25:04.155045+09:00"
+   "checked": "2026-10-20T23:15:20.595877+09:00"
   },
   "Aviation Wire": {
    "url": "https://www.aviationwire.jp/feed",
    "ok": true,
    "note": "記事 10件",
-   "checked": "2026-10-20T17:25:04.155045+09:00"
+   "checked": "2026-10-20T23:15:20.595877+09:00"
   },
   "たびりす": {
    "url": "https://tabiris.com/feed",
    "ok": true,
    "note": "記事 15件",
-   "checked": "2026-10-20T17:25:04.155045+09:00"
+   "checked": "2026-10-20T23:15:20.595877+09:00"
   },
   "ANA 国内線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/",
    "ok": true,
    "note": "セール関連の文 25件",
-   "checked": "2026-10-20T17:25:04.155045+09:00"
+   "checked": "2026-10-20T23:15:20.595877+09:00"
   },
   "ANA 国際線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/international/theme/special_prj/",
    "ok": true,
    "note": "セール関連の文 15件",
-   "checked": "2026-10-20T17:25:04.155045+09:00"
+   "checked": "2026-10-20T23:15:20.595877+09:00"
   },
   "ANA 国内ツアータイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/domtour/",
    "ok": true,
    "note": "セール関連の文 11件",
-   "checked": "2026-10-20T17:25:04.155045+09:00"
+   "checked": "2026-10-20T23:15:20.595877+09:00"
   },
   "JAL 国内線タイムセール": {
    "url": "https://www.jal.co.jp/jp/ja/dom/special/timesale/",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-10-20T17:25:04.155045+09:00"
+   "checked": "2026-10-20T23:15:20.595877+09:00"
   },
   "Peach トップ": {
    "url": "https://www.flypeach.com/",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-10-20T17:25:04.155045+09:00"
+   "checked": "2026-10-20T23:15:20.595877+09:00"
   },
   "Peach セール": {
    "url": "https://www.flypeach.com/um/specials/sale/sale",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-10-20T17:25:04.155045+09:00"
+   "checked": "2026-10-20T23:15:20.595877+09:00"
   },
   "ジェットスター": {
    "url": "https://www.jetstar.com/jp/ja/deals",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-10-20T17:25:04.155045+09:00"
+   "checked": "2026-10-20T23:15:20.595877+09:00"
   },
   "スカイマーク": {
    "url": "https://www.skymark.co.jp/ja/",
    "ok": true,
    "note": "セール関連の文 3件",
-   "checked": "2026-10-20T17:25:04.155045+09:00"
+   "checked": "2026-10-20T23:15:20.595877+09:00"
   },
   "ZIPAIR": {
    "url": "https://www.zipair.net/ja",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-10-20T17:25:04.155045+09:00"
+   "checked": "2026-10-20T23:15:20.595877+09:00"
   },
   "スプリング・ジャパン": {
    "url": "https://jp.ch.com/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-10-20T17:25:04.155045+09:00"
+   "checked": "2026-10-20T23:15:20.595877+09:00"
   },
   "スターフライヤー": {
    "url": "https://www.starflyer.jp/",
    "ok": true,
    "note": "セール関連の文 5件",
-   "checked": "2026-10-20T17:25:04.155045+09:00"
+   "checked": "2026-10-20T23:15:20.595877+09:00"
   },
   "ソラシドエア": {
    "url": "https://www.solaseedair.jp/",
    "ok": true,
    "note": "セール関連の文 4件",
-   "checked": "2026-10-20T17:25:04.155045+09:00"
+   "checked": "2026-10-20T23:15:20.595877+09:00"
   },
   "AIRDO": {
    "url": "https://www.airdo.jp/",
    "ok": true,
    "note": "セール関連の文 2件",
-   "checked": "2026-10-20T17:25:04.155045+09:00"
+   "checked": "2026-10-20T23:15:20.595877+09:00"
   }
  }
 }
