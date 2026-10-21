@@ -4649,6 +4649,17 @@
    ],
    "travel": [],
    "first_seen": "2026-10-21T11:03:16.426024+09:00"
+  },
+  "c1b407113d12f2ce": {
+   "id": "c1b407113d12f2ce",
+   "title": "スカイマーク｜★たす旅 タイムセール開催中★ 公式ダイナミックパッケージ \"たす旅\" で使える最大25,000円OFFクーポン配布中。 >詳しくはこちら",
+   "link": "https://www.skymark.co.jp/ja/campaign/tasutabi/",
+   "source": "スカイマーク（公式）",
+   "published": "2026-10-21T13:31:10.495823+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-10-21T13:31:10.495823+09:00"
   }
  },
  "pages": {
@@ -4718,9 +4729,8 @@
    "セールの情報を見逃さない!メールマガジンカンタン登録。"
   ],
   "https://www.skymark.co.jp/ja/": [
-   "2026年10月25日~2027年3月27日ご搭乗分: 8月25日(火)午前7:00 販売開始(予定)",
    "SKYセール",
-   "★たす旅 先トクキャンペーン開催中★ スカイマーク公式ダイナミックパッケージで使える最大50,000円OFFクーポン配布中。 >詳しくはこちら"
+   "★たす旅 タイムセール開催中★ 公式ダイナミックパッケージ \"たす旅\" で使える最大25,000円OFFクーポン配布中。 >詳しくはこちら"
   ],
   "https://jp.ch.com/": [
    "キャンペーン・セールまとめ"
@@ -4748,97 +4758,97 @@
    "url": "https://www.traicy.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-10-21T11:03:16.426024+09:00"
+   "checked": "2026-10-21T13:31:10.495823+09:00"
   },
   "Aviation Wire": {
    "url": "https://www.aviationwire.jp/feed",
    "ok": true,
    "note": "記事 10件",
-   "checked": "2026-10-21T11:03:16.426024+09:00"
+   "checked": "2026-10-21T13:31:10.495823+09:00"
   },
   "たびりす": {
    "url": "https://tabiris.com/feed",
    "ok": true,
    "note": "記事 15件",
-   "checked": "2026-10-21T11:03:16.426024+09:00"
+   "checked": "2026-10-21T13:31:10.495823+09:00"
   },
   "ANA 国内線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/",
    "ok": true,
    "note": "セール関連の文 25件",
-   "checked": "2026-10-21T11:03:16.426024+09:00"
+   "checked": "2026-10-21T13:31:10.495823+09:00"
   },
   "ANA 国際線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/international/theme/special_prj/",
    "ok": true,
    "note": "セール関連の文 15件",
-   "checked": "2026-10-21T11:03:16.426024+09:00"
+   "checked": "2026-10-21T13:31:10.495823+09:00"
   },
   "ANA 国内ツアータイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/domtour/",
    "ok": true,
    "note": "セール関連の文 11件",
-   "checked": "2026-10-21T11:03:16.426024+09:00"
+   "checked": "2026-10-21T13:31:10.495823+09:00"
   },
   "JAL 国内線タイムセール": {
    "url": "https://www.jal.co.jp/jp/ja/dom/special/timesale/",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-10-21T11:03:16.426024+09:00"
+   "checked": "2026-10-21T13:31:10.495823+09:00"
   },
   "Peach トップ": {
    "url": "https://www.flypeach.com/",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-10-21T11:03:16.426024+09:00"
+   "checked": "2026-10-21T13:31:10.495823+09:00"
   },
   "Peach セール": {
    "url": "https://www.flypeach.com/um/specials/sale/sale",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-10-21T11:03:16.426024+09:00"
+   "checked": "2026-10-21T13:31:10.495823+09:00"
   },
   "ジェットスター": {
    "url": "https://www.jetstar.com/jp/ja/deals",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-10-21T11:03:16.426024+09:00"
+   "checked": "2026-10-21T13:31:10.495823+09:00"
   },
   "スカイマーク": {
    "url": "https://www.skymark.co.jp/ja/",
    "ok": true,
-   "note": "セール関連の文 3件",
-   "checked": "2026-10-21T11:03:16.426024+09:00"
+   "note": "セール関連の文 2件",
+   "checked": "2026-10-21T13:31:10.495823+09:00"
   },
   "ZIPAIR": {
    "url": "https://www.zipair.net/ja",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-10-21T11:03:16.426024+09:00"
+   "checked": "2026-10-21T13:31:10.495823+09:00"
   },
   "スプリング・ジャパン": {
    "url": "https://jp.ch.com/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-10-21T11:03:16.426024+09:00"
+   "checked": "2026-10-21T13:31:10.495823+09:00"
   },
   "スターフライヤー": {
    "url": "https://www.starflyer.jp/",
    "ok": true,
    "note": "セール関連の文 5件",
-   "checked": "2026-10-21T11:03:16.426024+09:00"
+   "checked": "2026-10-21T13:31:10.495823+09:00"
   },
   "ソラシドエア": {
    "url": "https://www.solaseedair.jp/",
    "ok": true,
    "note": "セール関連の文 4件",
-   "checked": "2026-10-21T11:03:16.426024+09:00"
+   "checked": "2026-10-21T13:31:10.495823+09:00"
   },
   "AIRDO": {
    "url": "https://www.airdo.jp/",
    "ok": true,
    "note": "セール関連の文 2件",
-   "checked": "2026-10-21T11:03:16.426024+09:00"
+   "checked": "2026-10-21T13:31:10.495823+09:00"
   }
  }
 }
