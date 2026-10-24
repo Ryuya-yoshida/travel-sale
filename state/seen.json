@@ -5942,6 +5942,28 @@
    "dates": [],
    "travel": [],
    "first_seen": "2026-10-25T05:38:53.985238+09:00"
+  },
+  "0dbbd94db1440771": {
+   "id": "0dbbd94db1440771",
+   "title": "【Amazonセール】Xiaomiのスマートフォン「Xiaomi 17T」SIMフリー国際版がお買い得！ - GAME Watch",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13eEdFbm9BNjcxdEJ3NTU4ZG1SUWFrYllHWEx0ZF9pRGY2ZjRPVWswXzNDWEw2SUVsYnZjcWdMSjRyaG5qVDB1TWtnOXJDS19VMmlvZFcxRzE3UEJrWmF0UVF3dkxSUQ?oc=5",
+   "source": "GAME Watch",
+   "published": "2026-10-20T00:05:00+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-10-25T08:06:09.438262+09:00"
+  },
+  "1521c24bfc4f5c5f": {
+   "id": "1521c24bfc4f5c5f",
+   "title": "【Amazonセール】Dell、4K/165Hz対応OLEDゲーミングモニター「Alienware AW3226Q」31.5インチモデルが登場！ - GAME Watch",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qbElrT3VkeHdNNWdJbF9HdjhiVU1wbmxpUkMwTG8wTG56Z2p0VTE4cGV1eVdJOVA4ZnlXVXhBYXdkTkxMcHJoRC01VEI1Qkx3SFRPYTlxOW91RmJzczIyOXh0b0V4dw?oc=5",
+   "source": "GAME Watch",
+   "published": "2026-10-20T00:05:00+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-10-25T08:06:09.438262+09:00"
   }
  },
  "pages": {
@@ -6038,97 +6060,97 @@
    "url": "https://www.traicy.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-10-25T05:38:53.985238+09:00"
+   "checked": "2026-10-25T08:06:09.438262+09:00"
   },
   "Aviation Wire": {
    "url": "https://www.aviationwire.jp/feed",
    "ok": true,
    "note": "記事 10件",
-   "checked": "2026-10-25T05:38:53.985238+09:00"
+   "checked": "2026-10-25T08:06:09.438262+09:00"
   },
   "たびりす": {
    "url": "https://tabiris.com/feed",
    "ok": true,
    "note": "記事 15件",
-   "checked": "2026-10-25T05:38:53.985238+09:00"
+   "checked": "2026-10-25T08:06:09.438262+09:00"
   },
   "ANA 国内線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/",
    "ok": true,
    "note": "セール関連の文 25件",
-   "checked": "2026-10-25T05:38:53.985238+09:00"
+   "checked": "2026-10-25T08:06:09.438262+09:00"
   },
   "ANA 国際線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/international/theme/special_prj/",
    "ok": true,
    "note": "セール関連の文 15件",
-   "checked": "2026-10-25T05:38:53.985238+09:00"
+   "checked": "2026-10-25T08:06:09.438262+09:00"
   },
   "ANA 国内ツアータイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/domtour/",
    "ok": true,
    "note": "セール関連の文 11件",
-   "checked": "2026-10-25T05:38:53.985238+09:00"
+   "checked": "2026-10-25T08:06:09.438262+09:00"
   },
   "JAL 国内線タイムセール": {
    "url": "https://www.jal.co.jp/jp/ja/dom/special/timesale/",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-10-25T05:38:53.985238+09:00"
+   "checked": "2026-10-25T08:06:09.438262+09:00"
   },
   "Peach トップ": {
    "url": "https://www.flypeach.com/",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-10-25T05:38:53.985238+09:00"
+   "checked": "2026-10-25T08:06:09.438262+09:00"
   },
   "Peach セール": {
    "url": "https://www.flypeach.com/um/specials/sale/sale",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-10-25T05:38:53.985238+09:00"
+   "checked": "2026-10-25T08:06:09.438262+09:00"
   },
   "ジェットスター": {
    "url": "https://www.jetstar.com/jp/ja/deals",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-10-25T05:38:53.985238+09:00"
+   "checked": "2026-10-25T08:06:09.438262+09:00"
   },
   "スカイマーク": {
    "url": "https://www.skymark.co.jp/ja/",
    "ok": true,
    "note": "セール関連の文 2件",
-   "checked": "2026-10-25T05:38:53.985238+09:00"
+   "checked": "2026-10-25T08:06:09.438262+09:00"
   },
   "ZIPAIR": {
    "url": "https://www.zipair.net/ja",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-10-25T05:38:53.985238+09:00"
+   "checked": "2026-10-25T08:06:09.438262+09:00"
   },
   "スプリング・ジャパン": {
    "url": "https://jp.ch.com/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-10-25T05:38:53.985238+09:00"
+   "checked": "2026-10-25T08:06:09.438262+09:00"
   },
   "スターフライヤー": {
    "url": "https://www.starflyer.jp/",
    "ok": true,
    "note": "セール関連の文 5件",
-   "checked": "2026-10-25T05:38:53.985238+09:00"
+   "checked": "2026-10-25T08:06:09.438262+09:00"
   },
   "ソラシドエア": {
    "url": "https://www.solaseedair.jp/",
    "ok": true,
    "note": "セール関連の文 3件",
-   "checked": "2026-10-25T05:38:53.985238+09:00"
+   "checked": "2026-10-25T08:06:09.438262+09:00"
   },
   "AIRDO": {
    "url": "https://www.airdo.jp/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-10-25T05:38:53.985238+09:00"
+   "checked": "2026-10-25T08:06:09.438262+09:00"
   }
  }
 }
