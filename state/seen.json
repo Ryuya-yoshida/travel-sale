@@ -6531,6 +6531,30 @@
    "dates": [],
    "travel": [],
    "first_seen": "2026-10-28T07:06:10.614619+09:00"
+  },
+  "2b7cada5c2fa82a4": {
+   "id": "2b7cada5c2fa82a4",
+   "title": "スクート、日本発着路線が諸税込19,000円からのセールを開催中 - sky-budget スカイバジェット",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsUFJZRHpfdkZIY3JVcmRvaEp0cmt0d0ZQLWJOMmVnV3Y2WDNXQWtNU2pGRG5rdEVuRE1nQUNlNUtOUnk5Tk1aajVGTVE5TTYzSUVIeV84T0NHSVdVS1Aya25rNA?oc=5",
+   "source": "sky-budget スカイバジェット",
+   "published": "2026-10-28T10:44:20+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-10-28T11:35:29.110523+09:00"
+  },
+  "44ca1d3167b7dbe0": {
+   "id": "44ca1d3167b7dbe0",
+   "title": "エクスペディアでPayPay決済が利用可能に！ 最大20％ポイント付与の「PayPayクーポンキャンペーン」が10月28日から - AppBank",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52amFQcVNOaUtHUjlqcFRZc05XMWZxcGEyY2VNTy1hQm1RN0E2T01qMDhiRG9QeV9xNnUzRThxTlZIUndQYzdRZm13WHpkX20xZk1PRWRnN2luY21pQWY3MXpwRkowVGhiWHc?oc=5",
+   "source": "AppBank",
+   "published": "2026-10-28T08:47:07+09:00",
+   "announce": false,
+   "dates": [
+    "2026-10-28"
+   ],
+   "travel": [],
+   "first_seen": "2026-10-28T11:35:29.110523+09:00"
   }
  },
  "pages": {
@@ -6628,97 +6652,97 @@
    "url": "https://www.traicy.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-10-28T07:06:10.614619+09:00"
+   "checked": "2026-10-28T11:35:29.110523+09:00"
   },
   "Aviation Wire": {
    "url": "https://www.aviationwire.jp/feed",
    "ok": true,
    "note": "記事 10件",
-   "checked": "2026-10-28T07:06:10.614619+09:00"
+   "checked": "2026-10-28T11:35:29.110523+09:00"
   },
   "たびりす": {
    "url": "https://tabiris.com/feed",
    "ok": true,
    "note": "記事 15件",
-   "checked": "2026-10-28T07:06:10.614619+09:00"
+   "checked": "2026-10-28T11:35:29.110523+09:00"
   },
   "ANA 国内線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/",
    "ok": true,
    "note": "セール関連の文 25件",
-   "checked": "2026-10-28T07:06:10.614619+09:00"
+   "checked": "2026-10-28T11:35:29.110523+09:00"
   },
   "ANA 国際線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/international/theme/special_prj/",
    "ok": true,
    "note": "セール関連の文 15件",
-   "checked": "2026-10-28T07:06:10.614619+09:00"
+   "checked": "2026-10-28T11:35:29.110523+09:00"
   },
   "ANA 国内ツアータイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/domtour/",
    "ok": true,
    "note": "セール関連の文 11件",
-   "checked": "2026-10-28T07:06:10.614619+09:00"
+   "checked": "2026-10-28T11:35:29.110523+09:00"
   },
   "JAL 国内線タイムセール": {
    "url": "https://www.jal.co.jp/jp/ja/dom/special/timesale/",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-10-28T07:06:10.614619+09:00"
+   "checked": "2026-10-28T11:35:29.110523+09:00"
   },
   "Peach トップ": {
    "url": "https://www.flypeach.com/",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-10-28T07:06:10.614619+09:00"
+   "checked": "2026-10-28T11:35:29.110523+09:00"
   },
   "Peach セール": {
    "url": "https://www.flypeach.com/um/specials/sale/sale",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-10-28T07:06:10.614619+09:00"
+   "checked": "2026-10-28T11:35:29.110523+09:00"
   },
   "ジェットスター": {
    "url": "https://www.jetstar.com/jp/ja/deals",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-10-28T07:06:10.614619+09:00"
+   "checked": "2026-10-28T11:35:29.110523+09:00"
   },
   "スカイマーク": {
    "url": "https://www.skymark.co.jp/ja/",
    "ok": true,
    "note": "セール関連の文 2件",
-   "checked": "2026-10-28T07:06:10.614619+09:00"
+   "checked": "2026-10-28T11:35:29.110523+09:00"
   },
   "ZIPAIR": {
    "url": "https://www.zipair.net/ja",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-10-28T07:06:10.614619+09:00"
+   "checked": "2026-10-28T11:35:29.110523+09:00"
   },
   "スプリング・ジャパン": {
    "url": "https://jp.ch.com/",
    "ok": true,
    "note": "セール関連の文 2件",
-   "checked": "2026-10-28T07:06:10.614619+09:00"
+   "checked": "2026-10-28T11:35:29.110523+09:00"
   },
   "スターフライヤー": {
    "url": "https://www.starflyer.jp/",
    "ok": true,
    "note": "セール関連の文 5件",
-   "checked": "2026-10-28T07:06:10.614619+09:00"
+   "checked": "2026-10-28T11:35:29.110523+09:00"
   },
   "ソラシドエア": {
    "url": "https://www.solaseedair.jp/",
    "ok": true,
    "note": "セール関連の文 3件",
-   "checked": "2026-10-28T07:06:10.614619+09:00"
+   "checked": "2026-10-28T11:35:29.110523+09:00"
   },
   "AIRDO": {
    "url": "https://www.airdo.jp/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-10-28T07:06:10.614619+09:00"
+   "checked": "2026-10-28T11:35:29.110523+09:00"
   }
  }
 }
