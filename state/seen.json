@@ -7353,6 +7353,19 @@
    ],
    "travel": [],
    "first_seen": "2026-10-31T14:22:44.446000+09:00"
+  },
+  "0cb14531eeaaa50a": {
+   "id": "0cb14531eeaaa50a",
+   "title": "温泉付き客室に、ひとりでもお得に泊まれる 箱根「一の湯」4施設で「11.11独身の日」セール【予約開始：10／31】(全文表示) - Jタウンネット",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oUlVvSGVSVnU3ZXlKdkhBaTdpc3pFSmhlbnZQNDE4TEJMZWx5V1BadDN5Z3BhZWFfZ04wc0hPWUpEQ0wzdDZZNWR5amVMQzk3eTR4ZE9EcUg3QQ?oc=5",
+   "source": "Jタウンネット",
+   "published": "2026-10-31T13:00:00+09:00",
+   "announce": true,
+   "dates": [
+    "2026-10-31"
+   ],
+   "travel": [],
+   "first_seen": "2026-10-31T21:11:29.728816+09:00"
   }
  },
  "pages": {
@@ -7450,97 +7463,97 @@
    "url": "https://www.traicy.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-10-31T14:22:44.446000+09:00"
+   "checked": "2026-10-31T21:11:29.728816+09:00"
   },
   "Aviation Wire": {
    "url": "https://www.aviationwire.jp/feed",
    "ok": true,
    "note": "記事 10件",
-   "checked": "2026-10-31T14:22:44.446000+09:00"
+   "checked": "2026-10-31T21:11:29.728816+09:00"
   },
   "たびりす": {
    "url": "https://tabiris.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-10-31T14:22:44.446000+09:00"
+   "checked": "2026-10-31T21:11:29.728816+09:00"
   },
   "ANA 国内線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/",
    "ok": true,
    "note": "セール関連の文 25件",
-   "checked": "2026-10-31T14:22:44.446000+09:00"
+   "checked": "2026-10-31T21:11:29.728816+09:00"
   },
   "ANA 国際線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/international/theme/special_prj/",
    "ok": true,
    "note": "セール関連の文 15件",
-   "checked": "2026-10-31T14:22:44.446000+09:00"
+   "checked": "2026-10-31T21:11:29.728816+09:00"
   },
   "ANA 国内ツアータイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/domtour/",
    "ok": true,
    "note": "セール関連の文 11件",
-   "checked": "2026-10-31T14:22:44.446000+09:00"
+   "checked": "2026-10-31T21:11:29.728816+09:00"
   },
   "JAL 国内線タイムセール": {
    "url": "https://www.jal.co.jp/jp/ja/dom/special/timesale/",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-10-31T14:22:44.446000+09:00"
+   "checked": "2026-10-31T21:11:29.728816+09:00"
   },
   "Peach トップ": {
    "url": "https://www.flypeach.com/",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-10-31T14:22:44.446000+09:00"
+   "checked": "2026-10-31T21:11:29.728816+09:00"
   },
   "Peach セール": {
    "url": "https://www.flypeach.com/um/specials/sale/sale",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-10-31T14:22:44.446000+09:00"
+   "checked": "2026-10-31T21:11:29.728816+09:00"
   },
   "ジェットスター": {
    "url": "https://www.jetstar.com/jp/ja/deals",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-10-31T14:22:44.446000+09:00"
+   "checked": "2026-10-31T21:11:29.728816+09:00"
   },
   "スカイマーク": {
    "url": "https://www.skymark.co.jp/ja/",
    "ok": true,
    "note": "セール関連の文 2件",
-   "checked": "2026-10-31T14:22:44.446000+09:00"
+   "checked": "2026-10-31T21:11:29.728816+09:00"
   },
   "ZIPAIR": {
    "url": "https://www.zipair.net/ja",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-10-31T14:22:44.446000+09:00"
+   "checked": "2026-10-31T21:11:29.728816+09:00"
   },
   "スプリング・ジャパン": {
    "url": "https://jp.ch.com/",
    "ok": true,
    "note": "セール関連の文 2件",
-   "checked": "2026-10-31T14:22:44.446000+09:00"
+   "checked": "2026-10-31T21:11:29.728816+09:00"
   },
   "スターフライヤー": {
    "url": "https://www.starflyer.jp/",
    "ok": true,
    "note": "セール関連の文 5件",
-   "checked": "2026-10-31T14:22:44.446000+09:00"
+   "checked": "2026-10-31T21:11:29.728816+09:00"
   },
   "ソラシドエア": {
    "url": "https://www.solaseedair.jp/",
    "ok": true,
    "note": "セール関連の文 3件",
-   "checked": "2026-10-31T14:22:44.446000+09:00"
+   "checked": "2026-10-31T21:11:29.728816+09:00"
   },
   "AIRDO": {
    "url": "https://www.airdo.jp/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-10-31T14:22:44.446000+09:00"
+   "checked": "2026-10-31T21:11:29.728816+09:00"
   }
  }
 }
