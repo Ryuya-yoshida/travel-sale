@@ -7366,6 +7366,65 @@
    ],
    "travel": [],
    "first_seen": "2026-10-31T21:11:29.728816+09:00"
+  },
+  "93b61be0c70dc87e": {
+   "id": "93b61be0c70dc87e",
+   "title": "じゃらんのお得な10日間、次回11月15日クーポン配布！宿泊最大2.5万円割引やセールプラン併用でお得 - トラベラーズナビ",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zWDNFT296OTRxY3VoZ28wS3RVRXpQVC1BN1o0WkNJVmF4RzRNV1dCWjVXT2cxQW9CbVk3cEFUOGJBSVZJZ1E2REtnRFdFWVhqZVc2V2Nubw?oc=5",
+   "source": "トラベラーズナビ",
+   "published": "2026-10-30T00:23:12+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [
+    "2026-11-15"
+   ],
+   "first_seen": "2026-11-01T04:13:30.869794+09:00"
+  },
+  "a29dcc09e36c7b5e": {
+   "id": "a29dcc09e36c7b5e",
+   "title": "楽天モバイルで機種変更する方法は？SIM交換やスーパーセールで安く購入する方法も解説 - マイベスト",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBtUldJakFSS2dDWENibjNJdjhNSEdFcks5d0YyZWN4dlZMdlVyZWVSMnFCVkg4QkU4S1ZxcnVta1pJSDYzVG00?oc=5",
+   "source": "マイベスト",
+   "published": "2026-10-28T00:00:00+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-01T04:13:30.869794+09:00"
+  },
+  "be57fb629bf08d03": {
+   "id": "be57fb629bf08d03",
+   "title": "長野県の宿泊割引クーポン・旅行支援情報まとめ！GoToトラベルや信州割など観光キャンペーン一覧 - トラベラーズナビ",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YNDZWLW1QYk01NW51RF9QckNlRUVJZ1ZmTUNWbE03N1NDRkRPcU4yUFFoMUtnU0llX2FuTFlaLTBQT3I3SlIyTlhScUhrM05NVjRSMERhM2M?oc=5",
+   "source": "トラベラーズナビ",
+   "published": "2026-10-29T15:04:11+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-01T04:13:30.869794+09:00"
+  },
+  "32b2c23a06e30a66": {
+   "id": "32b2c23a06e30a66",
+   "title": "花巻市冬の旅得キャンペーン「はなたび」宿泊料金が最大半額 - トラベラーズナビ",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfYk1mVTA2eVNnU2haVGJrbEJNM2lPS0NDLVJfanBlRDJ6bk9mMUxZTWhreTVoMTZiTFNBUjg2MXF0VnR1a2VNTHpQM2I0OU96QlZj?oc=5",
+   "source": "トラベラーズナビ",
+   "published": "2026-10-31T20:51:50+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-01T04:13:30.869794+09:00"
+  },
+  "2d11646099c9c583": {
+   "id": "2d11646099c9c583",
+   "title": "STAR TRIP クーポンセール 数量限定 最大10,000円 OFFクーポン配布中。スターフライヤー公式ダイナミックパッケージ(航空券+宿泊)が、お得に予約できるチャンス!予約期間:11月5日(木)23:54まで!",
+   "link": "https://www.starflyer.jp/",
+   "source": "スターフライヤー（公式）",
+   "published": "2026-11-01T04:13:30.869794+09:00",
+   "announce": false,
+   "dates": [
+    "2026-11-05"
+   ],
+   "travel": [],
+   "first_seen": "2026-11-01T04:13:30.869794+09:00"
   }
  },
  "pages": {
@@ -7443,11 +7502,12 @@
    "キャンペーン・セールまとめ"
   ],
   "https://www.starflyer.jp/": [
-   "STAR TRIPクーポンセール 11月~4月出発まで 数量限定最大10,000円OFF 予約期間:11月5日(木)23:54まで!",
-   "【STAR LINK MEMBERS限定】羽田⇔北九州線のご搭乗で抽選で航空券などが当たる!!ご搭乗キャンペーン 2027年3月17日(水)まで",
+   "STAR TRIP クーポンセール 数量限定 最大10,000円 OFFクーポン配布中。スターフライヤー公式ダイナミックパッケージ(航空券+宿泊)が、お得に予約できるチャンス!予約期間:11月5日(木)23:54まで!",
    "キャンペーン一覧へ",
    "キャンペーン情報",
-   "予約開始日およびご購入期限"
+   "予約開始日およびご購入期限",
+   "北九州⇔台北線ダブルマイルキャンペーン",
+   "運航再開記念セール 北九州ー台北線 5,000円~(片道)2026.9.2 運航再開"
   ],
   "https://www.solaseedair.jp/": [
    "みやざき空旅キャンペーン",
@@ -7463,97 +7523,97 @@
    "url": "https://www.traicy.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-10-31T21:11:29.728816+09:00"
+   "checked": "2026-11-01T04:13:30.869794+09:00"
   },
   "Aviation Wire": {
    "url": "https://www.aviationwire.jp/feed",
    "ok": true,
    "note": "記事 10件",
-   "checked": "2026-10-31T21:11:29.728816+09:00"
+   "checked": "2026-11-01T04:13:30.869794+09:00"
   },
   "たびりす": {
    "url": "https://tabiris.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-10-31T21:11:29.728816+09:00"
+   "checked": "2026-11-01T04:13:30.869794+09:00"
   },
   "ANA 国内線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/",
    "ok": true,
    "note": "セール関連の文 25件",
-   "checked": "2026-10-31T21:11:29.728816+09:00"
+   "checked": "2026-11-01T04:13:30.869794+09:00"
   },
   "ANA 国際線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/international/theme/special_prj/",
    "ok": true,
    "note": "セール関連の文 15件",
-   "checked": "2026-10-31T21:11:29.728816+09:00"
+   "checked": "2026-11-01T04:13:30.869794+09:00"
   },
   "ANA 国内ツアータイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/domtour/",
    "ok": true,
    "note": "セール関連の文 11件",
-   "checked": "2026-10-31T21:11:29.728816+09:00"
+   "checked": "2026-11-01T04:13:30.869794+09:00"
   },
   "JAL 国内線タイムセール": {
    "url": "https://www.jal.co.jp/jp/ja/dom/special/timesale/",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-10-31T21:11:29.728816+09:00"
+   "checked": "2026-11-01T04:13:30.869794+09:00"
   },
   "Peach トップ": {
    "url": "https://www.flypeach.com/",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-10-31T21:11:29.728816+09:00"
+   "checked": "2026-11-01T04:13:30.869794+09:00"
   },
   "Peach セール": {
    "url": "https://www.flypeach.com/um/specials/sale/sale",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-10-31T21:11:29.728816+09:00"
+   "checked": "2026-11-01T04:13:30.869794+09:00"
   },
   "ジェットスター": {
    "url": "https://www.jetstar.com/jp/ja/deals",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-10-31T21:11:29.728816+09:00"
+   "checked": "2026-11-01T04:13:30.869794+09:00"
   },
   "スカイマーク": {
    "url": "https://www.skymark.co.jp/ja/",
    "ok": true,
    "note": "セール関連の文 2件",
-   "checked": "2026-10-31T21:11:29.728816+09:00"
+   "checked": "2026-11-01T04:13:30.869794+09:00"
   },
   "ZIPAIR": {
    "url": "https://www.zipair.net/ja",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-10-31T21:11:29.728816+09:00"
+   "checked": "2026-11-01T04:13:30.869794+09:00"
   },
   "スプリング・ジャパン": {
    "url": "https://jp.ch.com/",
    "ok": true,
    "note": "セール関連の文 2件",
-   "checked": "2026-10-31T21:11:29.728816+09:00"
+   "checked": "2026-11-01T04:13:30.869794+09:00"
   },
   "スターフライヤー": {
    "url": "https://www.starflyer.jp/",
    "ok": true,
-   "note": "セール関連の文 5件",
-   "checked": "2026-10-31T21:11:29.728816+09:00"
+   "note": "セール関連の文 6件",
+   "checked": "2026-11-01T04:13:30.869794+09:00"
   },
   "ソラシドエア": {
    "url": "https://www.solaseedair.jp/",
    "ok": true,
    "note": "セール関連の文 3件",
-   "checked": "2026-10-31T21:11:29.728816+09:00"
+   "checked": "2026-11-01T04:13:30.869794+09:00"
   },
   "AIRDO": {
    "url": "https://www.airdo.jp/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-10-31T21:11:29.728816+09:00"
+   "checked": "2026-11-01T04:13:30.869794+09:00"
   }
  }
 }
