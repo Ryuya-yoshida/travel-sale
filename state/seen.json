@@ -8219,6 +8219,19 @@
    ],
    "travel": [],
    "first_seen": "2026-11-06T02:19:01.636688+09:00"
+  },
+  "875803c497b1a60f": {
+   "id": "875803c497b1a60f",
+   "title": "楽天トラベル「秋冬セール」11月19日まで開催！旅行クーポンやキャンペーン併用の攻略法と予約に便利なリンク集 - トラベラーズナビ",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pU2V3aURkLWJBNjVpR3RvSHJTRWhLV1FWZW1UTFVXMGg5VDhENUZpR2JNcjN1WDdPRFc4R2pkYTdUWjFQcC0xcXBjVWpfczdTUnZnUmZHdFE?oc=5",
+   "source": "トラベラーズナビ",
+   "published": "2026-11-02T21:34:31+09:00",
+   "announce": false,
+   "dates": [
+    "2026-11-19"
+   ],
+   "travel": [],
+   "first_seen": "2026-11-06T08:33:30.081433+09:00"
   }
  },
  "pages": {
@@ -8316,97 +8329,97 @@
    "url": "https://www.traicy.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-11-06T02:19:01.636688+09:00"
+   "checked": "2026-11-06T08:33:30.081433+09:00"
   },
   "Aviation Wire": {
    "url": "https://www.aviationwire.jp/feed",
    "ok": true,
    "note": "記事 10件",
-   "checked": "2026-11-06T02:19:01.636688+09:00"
+   "checked": "2026-11-06T08:33:30.081433+09:00"
   },
   "たびりす": {
    "url": "https://tabiris.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-11-06T02:19:01.636688+09:00"
+   "checked": "2026-11-06T08:33:30.081433+09:00"
   },
   "ANA 国内線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/",
    "ok": true,
    "note": "セール関連の文 25件",
-   "checked": "2026-11-06T02:19:01.636688+09:00"
+   "checked": "2026-11-06T08:33:30.081433+09:00"
   },
   "ANA 国際線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/international/theme/special_prj/",
    "ok": true,
    "note": "セール関連の文 15件",
-   "checked": "2026-11-06T02:19:01.636688+09:00"
+   "checked": "2026-11-06T08:33:30.081433+09:00"
   },
   "ANA 国内ツアータイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/domtour/",
    "ok": true,
    "note": "セール関連の文 11件",
-   "checked": "2026-11-06T02:19:01.636688+09:00"
+   "checked": "2026-11-06T08:33:30.081433+09:00"
   },
   "JAL 国内線タイムセール": {
    "url": "https://www.jal.co.jp/jp/ja/dom/special/timesale/",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-11-06T02:19:01.636688+09:00"
+   "checked": "2026-11-06T08:33:30.081433+09:00"
   },
   "Peach トップ": {
    "url": "https://www.flypeach.com/",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-06T02:19:01.636688+09:00"
+   "checked": "2026-11-06T08:33:30.081433+09:00"
   },
   "Peach セール": {
    "url": "https://www.flypeach.com/um/specials/sale/sale",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-06T02:19:01.636688+09:00"
+   "checked": "2026-11-06T08:33:30.081433+09:00"
   },
   "ジェットスター": {
    "url": "https://www.jetstar.com/jp/ja/deals",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-06T02:19:01.636688+09:00"
+   "checked": "2026-11-06T08:33:30.081433+09:00"
   },
   "スカイマーク": {
    "url": "https://www.skymark.co.jp/ja/",
    "ok": true,
    "note": "セール関連の文 2件",
-   "checked": "2026-11-06T02:19:01.636688+09:00"
+   "checked": "2026-11-06T08:33:30.081433+09:00"
   },
   "ZIPAIR": {
    "url": "https://www.zipair.net/ja",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-11-06T02:19:01.636688+09:00"
+   "checked": "2026-11-06T08:33:30.081433+09:00"
   },
   "スプリング・ジャパン": {
    "url": "https://jp.ch.com/",
    "ok": true,
    "note": "セール関連の文 2件",
-   "checked": "2026-11-06T02:19:01.636688+09:00"
+   "checked": "2026-11-06T08:33:30.081433+09:00"
   },
   "スターフライヤー": {
    "url": "https://www.starflyer.jp/",
    "ok": true,
    "note": "セール関連の文 5件",
-   "checked": "2026-11-06T02:19:01.636688+09:00"
+   "checked": "2026-11-06T08:33:30.081433+09:00"
   },
   "ソラシドエア": {
    "url": "https://www.solaseedair.jp/",
    "ok": true,
    "note": "セール関連の文 3件",
-   "checked": "2026-11-06T02:19:01.636688+09:00"
+   "checked": "2026-11-06T08:33:30.081433+09:00"
   },
   "AIRDO": {
    "url": "https://www.airdo.jp/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-11-06T02:19:01.636688+09:00"
+   "checked": "2026-11-06T08:33:30.081433+09:00"
   }
  }
 }
