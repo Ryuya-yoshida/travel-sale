@@ -9238,6 +9238,39 @@
    "dates": [],
    "travel": [],
    "first_seen": "2026-11-11T04:37:45.668909+09:00"
+  },
+  "35c8331adf829500": {
+   "id": "35c8331adf829500",
+   "title": "奄美市の宿泊割「あまみゆったり島泊割」最大半額、九州ふっこう応援割との併用は？ - トラベラーズナビ",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UQ01HaWxEMTJKMXdwRE9RQ1Q3SmpWZXlZazhsV2NmWi1xWXF5NlR2LUJ2WGtwN0RWOC1ydUVkTFVoaldnd2NZaFkwek1IRnMzblNHdjB5Nk5aSFIySHE0bHhn?oc=5",
+   "source": "トラベラーズナビ",
+   "published": "2026-11-10T00:36:53+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-11T10:11:31.446880+09:00"
+  },
+  "b2c8c9d36ae1ab8b": {
+   "id": "b2c8c9d36ae1ab8b",
+   "title": "広島県の宿泊割引クーポン・旅行支援情報まとめ｜GoToトラベルや広島県宿泊促進キャンペーンなどの割引情報 - トラベラーズナビ",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtQUpFSVNucW1RLVNmdzNGdjlyMkt6NlYyTTJDMjl1bnVXWmg1ejlGRlVaUWJudmR5RV9hbnBGdHNUN21oc0JKN1RtSG5qdzR6NE5aaGJPa096VzZrV25R?oc=5",
+   "source": "トラベラーズナビ",
+   "published": "2026-11-09T21:54:31+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-11T10:11:31.446880+09:00"
+  },
+  "c5f9f90fbf60b2fc": {
+   "id": "c5f9f90fbf60b2fc",
+   "title": "IHGホテルズ＆リゾーツ、「IHGぷくたびキャンペーン」を開催　ゲームで無料宿泊券が当たる",
+   "link": "https://www.traicy.com/posts/20261111385722/",
+   "source": "Traicy",
+   "published": "2026-11-11T06:15:49+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-11T10:11:31.446880+09:00"
   }
  },
  "pages": {
@@ -9335,97 +9368,97 @@
    "url": "https://www.traicy.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-11-11T04:37:45.668909+09:00"
+   "checked": "2026-11-11T10:11:31.446880+09:00"
   },
   "Aviation Wire": {
    "url": "https://www.aviationwire.jp/feed",
    "ok": true,
    "note": "記事 10件",
-   "checked": "2026-11-11T04:37:45.668909+09:00"
+   "checked": "2026-11-11T10:11:31.446880+09:00"
   },
   "たびりす": {
    "url": "https://tabiris.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-11-11T04:37:45.668909+09:00"
+   "checked": "2026-11-11T10:11:31.446880+09:00"
   },
   "ANA 国内線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/",
    "ok": true,
    "note": "セール関連の文 25件",
-   "checked": "2026-11-11T04:37:45.668909+09:00"
+   "checked": "2026-11-11T10:11:31.446880+09:00"
   },
   "ANA 国際線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/international/theme/special_prj/",
    "ok": true,
    "note": "セール関連の文 15件",
-   "checked": "2026-11-11T04:37:45.668909+09:00"
+   "checked": "2026-11-11T10:11:31.446880+09:00"
   },
   "ANA 国内ツアータイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/domtour/",
    "ok": true,
    "note": "セール関連の文 11件",
-   "checked": "2026-11-11T04:37:45.668909+09:00"
+   "checked": "2026-11-11T10:11:31.446880+09:00"
   },
   "JAL 国内線タイムセール": {
    "url": "https://www.jal.co.jp/jp/ja/dom/special/timesale/",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-11-11T04:37:45.668909+09:00"
+   "checked": "2026-11-11T10:11:31.446880+09:00"
   },
   "Peach トップ": {
    "url": "https://www.flypeach.com/",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-11T04:37:45.668909+09:00"
+   "checked": "2026-11-11T10:11:31.446880+09:00"
   },
   "Peach セール": {
    "url": "https://www.flypeach.com/um/specials/sale/sale",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-11T04:37:45.668909+09:00"
+   "checked": "2026-11-11T10:11:31.446880+09:00"
   },
   "ジェットスター": {
    "url": "https://www.jetstar.com/jp/ja/deals",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-11T04:37:45.668909+09:00"
+   "checked": "2026-11-11T10:11:31.446880+09:00"
   },
   "スカイマーク": {
    "url": "https://www.skymark.co.jp/ja/",
    "ok": true,
    "note": "セール関連の文 2件",
-   "checked": "2026-11-11T04:37:45.668909+09:00"
+   "checked": "2026-11-11T10:11:31.446880+09:00"
   },
   "ZIPAIR": {
    "url": "https://www.zipair.net/ja",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-11-11T04:37:45.668909+09:00"
+   "checked": "2026-11-11T10:11:31.446880+09:00"
   },
   "スプリング・ジャパン": {
    "url": "https://jp.ch.com/",
    "ok": true,
    "note": "セール関連の文 2件",
-   "checked": "2026-11-11T04:37:45.668909+09:00"
+   "checked": "2026-11-11T10:11:31.446880+09:00"
   },
   "スターフライヤー": {
    "url": "https://www.starflyer.jp/",
    "ok": true,
    "note": "セール関連の文 5件",
-   "checked": "2026-11-11T04:37:45.668909+09:00"
+   "checked": "2026-11-11T10:11:31.446880+09:00"
   },
   "ソラシドエア": {
    "url": "https://www.solaseedair.jp/",
    "ok": true,
    "note": "セール関連の文 3件",
-   "checked": "2026-11-11T04:37:45.668909+09:00"
+   "checked": "2026-11-11T10:11:31.446880+09:00"
   },
   "AIRDO": {
    "url": "https://www.airdo.jp/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-11-11T04:37:45.668909+09:00"
+   "checked": "2026-11-11T10:11:31.446880+09:00"
   }
  }
 }
