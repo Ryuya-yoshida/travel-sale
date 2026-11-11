@@ -9271,6 +9271,17 @@
    "dates": [],
    "travel": [],
    "first_seen": "2026-11-11T10:11:31.446880+09:00"
+  },
+  "473f1aef68888449": {
+   "id": "473f1aef68888449",
+   "title": "楽天トラベル「楽パック20周年スペシャルオファー」最大20,000円クーポン - トラベラーズナビ",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95RzdLTXZYLTNSQllHbzZxck1iak5RWVNKcjdFMXpjQ09iVzhQNHFPX2dQU3ExOEluaGJmak5KMk5Zd2J0RXRudGFWMkR4ZHlYeEE1b0FETQ?oc=5",
+   "source": "トラベラーズナビ",
+   "published": "2026-11-10T20:58:31+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-11T19:42:18.937831+09:00"
   }
  },
  "pages": {
@@ -9368,97 +9379,97 @@
    "url": "https://www.traicy.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-11-11T12:03:47.070949+09:00"
+   "checked": "2026-11-11T19:42:18.937831+09:00"
   },
   "Aviation Wire": {
    "url": "https://www.aviationwire.jp/feed",
    "ok": true,
    "note": "記事 10件",
-   "checked": "2026-11-11T12:03:47.070949+09:00"
+   "checked": "2026-11-11T19:42:18.937831+09:00"
   },
   "たびりす": {
    "url": "https://tabiris.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-11-11T12:03:47.070949+09:00"
+   "checked": "2026-11-11T19:42:18.937831+09:00"
   },
   "ANA 国内線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/",
    "ok": true,
    "note": "セール関連の文 25件",
-   "checked": "2026-11-11T12:03:47.070949+09:00"
+   "checked": "2026-11-11T19:42:18.937831+09:00"
   },
   "ANA 国際線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/international/theme/special_prj/",
    "ok": true,
    "note": "セール関連の文 15件",
-   "checked": "2026-11-11T12:03:47.070949+09:00"
+   "checked": "2026-11-11T19:42:18.937831+09:00"
   },
   "ANA 国内ツアータイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/domtour/",
    "ok": true,
    "note": "セール関連の文 11件",
-   "checked": "2026-11-11T12:03:47.070949+09:00"
+   "checked": "2026-11-11T19:42:18.937831+09:00"
   },
   "JAL 国内線タイムセール": {
    "url": "https://www.jal.co.jp/jp/ja/dom/special/timesale/",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-11-11T12:03:47.070949+09:00"
+   "checked": "2026-11-11T19:42:18.937831+09:00"
   },
   "Peach トップ": {
    "url": "https://www.flypeach.com/",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-11T12:03:47.070949+09:00"
+   "checked": "2026-11-11T19:42:18.937831+09:00"
   },
   "Peach セール": {
    "url": "https://www.flypeach.com/um/specials/sale/sale",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-11T12:03:47.070949+09:00"
+   "checked": "2026-11-11T19:42:18.937831+09:00"
   },
   "ジェットスター": {
    "url": "https://www.jetstar.com/jp/ja/deals",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-11T12:03:47.070949+09:00"
+   "checked": "2026-11-11T19:42:18.937831+09:00"
   },
   "スカイマーク": {
    "url": "https://www.skymark.co.jp/ja/",
    "ok": true,
    "note": "セール関連の文 2件",
-   "checked": "2026-11-11T12:03:47.070949+09:00"
+   "checked": "2026-11-11T19:42:18.937831+09:00"
   },
   "ZIPAIR": {
    "url": "https://www.zipair.net/ja",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-11-11T12:03:47.070949+09:00"
+   "checked": "2026-11-11T19:42:18.937831+09:00"
   },
   "スプリング・ジャパン": {
    "url": "https://jp.ch.com/",
    "ok": true,
    "note": "セール関連の文 2件",
-   "checked": "2026-11-11T12:03:47.070949+09:00"
+   "checked": "2026-11-11T19:42:18.937831+09:00"
   },
   "スターフライヤー": {
    "url": "https://www.starflyer.jp/",
    "ok": true,
    "note": "セール関連の文 5件",
-   "checked": "2026-11-11T12:03:47.070949+09:00"
+   "checked": "2026-11-11T19:42:18.937831+09:00"
   },
   "ソラシドエア": {
    "url": "https://www.solaseedair.jp/",
    "ok": true,
    "note": "セール関連の文 3件",
-   "checked": "2026-11-11T12:03:47.070949+09:00"
+   "checked": "2026-11-11T19:42:18.937831+09:00"
   },
   "AIRDO": {
    "url": "https://www.airdo.jp/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-11-11T12:03:47.070949+09:00"
+   "checked": "2026-11-11T19:42:18.937831+09:00"
   }
  }
 }
