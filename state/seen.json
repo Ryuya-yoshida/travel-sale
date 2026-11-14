@@ -52,17 +52,6 @@
    "first_seen": "2026-10-04T22:56:58.293329+09:00",
    "travel": []
   },
-  "e6bbf4b9cfd5667b": {
-   "id": "e6bbf4b9cfd5667b",
-   "title": "【2026】チェジュ航空セール完全ガイド 次回いつ？700円セール買えた攻略法 - airstair.jp",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNbjh0T3ZRNmtUQVhpTGc1WjFJRnBPeXZWc2NnRkU5TVU5b0EzVlhmM2JwMTducTNwMmZQQmoxeHdJUnBrZXpoTkVNd3ZsZw?oc=5",
-   "source": "airstair.jp",
-   "published": "2026-09-30T09:00:00+09:00",
-   "announce": false,
-   "dates": [],
-   "first_seen": "2026-10-04T22:56:58.293329+09:00",
-   "travel": []
-  },
   "9ba3f76fb73eeee6": {
    "id": "9ba3f76fb73eeee6",
    "title": "JAL国内線タイムセールを10/6開催。年末年始も対象、羽田～伊丹9,460円から - 旅行総合研究所タビリス",
@@ -154,17 +143,6 @@
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYUHJ2aGhaZHFRSnRUWEtjY0d3V0hBdkRwcFVobjI5YldkRlphV3R2Q3Q2NlhPMWNHVXNHN3BCYWVTbnVVNTN0cXAxcU53VUFKYjBnNjhRcGJQaUloaTZ5T3ZudDdNclhOYmc?oc=5",
    "source": "sky-budget.com",
    "published": "2026-10-01T14:23:55+09:00",
-   "announce": false,
-   "dates": [],
-   "first_seen": "2026-10-04T22:56:58.293329+09:00",
-   "travel": []
-  },
-  "9d27bdc834534fd1": {
-   "id": "9d27bdc834534fd1",
-   "title": "【2026】イースター航空のセール 次回いつ？SUPER STAR FESTAの買い方 - airstair.jp",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kMXJBUTZzMEl1d3RNU29EVlFpOUVPTW1GZVNsQ0hDT3hPenpjVG0zV3pxUy1TSnJVM3JzVGw5Vlh4U2JJQi1udVk3MA?oc=5",
-   "source": "airstair.jp",
-   "published": "2026-09-30T09:00:00+09:00",
    "announce": false,
    "dates": [],
    "first_seen": "2026-10-04T22:56:58.293329+09:00",
@@ -9921,6 +9899,43 @@
    "dates": [],
    "travel": [],
    "first_seen": "2026-11-14T04:33:02.165264+09:00"
+  },
+  "239c92dc51300be6": {
+   "id": "239c92dc51300be6",
+   "title": "JAL国内線タイムセールを11/17開催。ブラックフライデー、1月～2月搭乗分 - タビリス",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfb3VBeG5oeDVHT2NYdmJWOFBPanJiZ1VQWlhJOC1EdWxfZlAyaUxrTUVrMHZ1cE16UElFeWFkbjJLVlR6dTU3UUVLRXlCQlRIUjNmc2g2bTc?oc=5",
+   "source": "タビリス",
+   "published": "2026-11-14T06:46:01+09:00",
+   "announce": false,
+   "dates": [
+    "2026-11-17"
+   ],
+   "travel": [],
+   "first_seen": "2026-11-14T10:23:36.943895+09:00"
+  },
+  "0ce1828712644532": {
+   "id": "0ce1828712644532",
+   "title": "ハワイの人気ホテルでブラックフライデーセール！宿泊料金が最大35％オフ - Myハワイ歩き方",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaZ0hIa2RHX1lNWWY2Q1dLVGxGellNQXNnNHRIQUxSc2NvZWd4ZUVrdmwzT19PT2RyVHdvTXVhcUE0aWRxbk43c1E3enpWbEthRVpUOHJLcTh3YVpRaFVjQkZCTjY?oc=5",
+   "source": "Myハワイ歩き方",
+   "published": "2026-11-14T04:34:59+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-14T10:23:36.943895+09:00"
+  },
+  "28cdda56a5eb3237": {
+   "id": "28cdda56a5eb3237",
+   "title": "JR東海ツアーズのブラックフライデー11月13日開始、新幹線＋ホテルが特別価格！連泊割・クーポンも - トラベラーズナビ",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aVTM5d3Q5QVVjZ3l0OU5lZ3JTVERqMDl2ellGVkFQUFFqaG9YUm1pUU5YQWZDck9LM1hhRlpDbE1oY09IUHZaMHlXOWNsWTRDeHM5QWFn?oc=5",
+   "source": "トラベラーズナビ",
+   "published": "2026-11-13T00:04:01+09:00",
+   "announce": true,
+   "dates": [
+    "2026-11-13"
+   ],
+   "travel": [],
+   "first_seen": "2026-11-14T10:23:36.943895+09:00"
   }
  },
  "pages": {
@@ -10018,97 +10033,97 @@
    "url": "https://www.traicy.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-11-14T04:33:02.165264+09:00"
+   "checked": "2026-11-14T10:23:36.943895+09:00"
   },
   "Aviation Wire": {
    "url": "https://www.aviationwire.jp/feed",
    "ok": true,
    "note": "記事 10件",
-   "checked": "2026-11-14T04:33:02.165264+09:00"
+   "checked": "2026-11-14T10:23:36.943895+09:00"
   },
   "たびりす": {
    "url": "https://tabiris.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-11-14T04:33:02.165264+09:00"
+   "checked": "2026-11-14T10:23:36.943895+09:00"
   },
   "ANA 国内線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/",
    "ok": true,
    "note": "セール関連の文 26件",
-   "checked": "2026-11-14T04:33:02.165264+09:00"
+   "checked": "2026-11-14T10:23:36.943895+09:00"
   },
   "ANA 国際線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/international/theme/special_prj/",
    "ok": true,
    "note": "セール関連の文 15件",
-   "checked": "2026-11-14T04:33:02.165264+09:00"
+   "checked": "2026-11-14T10:23:36.943895+09:00"
   },
   "ANA 国内ツアータイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/domtour/",
    "ok": true,
    "note": "セール関連の文 11件",
-   "checked": "2026-11-14T04:33:02.165264+09:00"
+   "checked": "2026-11-14T10:23:36.943895+09:00"
   },
   "JAL 国内線タイムセール": {
    "url": "https://www.jal.co.jp/jp/ja/dom/special/timesale/",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-11-14T04:33:02.165264+09:00"
+   "checked": "2026-11-14T10:23:36.943895+09:00"
   },
   "Peach トップ": {
    "url": "https://www.flypeach.com/",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-14T04:33:02.165264+09:00"
+   "checked": "2026-11-14T10:23:36.943895+09:00"
   },
   "Peach セール": {
    "url": "https://www.flypeach.com/um/specials/sale/sale",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-14T04:33:02.165264+09:00"
+   "checked": "2026-11-14T10:23:36.943895+09:00"
   },
   "ジェットスター": {
    "url": "https://www.jetstar.com/jp/ja/deals",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-14T04:33:02.165264+09:00"
+   "checked": "2026-11-14T10:23:36.943895+09:00"
   },
   "スカイマーク": {
    "url": "https://www.skymark.co.jp/ja/",
    "ok": true,
    "note": "セール関連の文 2件",
-   "checked": "2026-11-14T04:33:02.165264+09:00"
+   "checked": "2026-11-14T10:23:36.943895+09:00"
   },
   "ZIPAIR": {
    "url": "https://www.zipair.net/ja",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-11-14T04:33:02.165264+09:00"
+   "checked": "2026-11-14T10:23:36.943895+09:00"
   },
   "スプリング・ジャパン": {
    "url": "https://jp.ch.com/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-11-14T04:33:02.165264+09:00"
+   "checked": "2026-11-14T10:23:36.943895+09:00"
   },
   "スターフライヤー": {
    "url": "https://www.starflyer.jp/",
    "ok": true,
    "note": "セール関連の文 5件",
-   "checked": "2026-11-14T04:33:02.165264+09:00"
+   "checked": "2026-11-14T10:23:36.943895+09:00"
   },
   "ソラシドエア": {
    "url": "https://www.solaseedair.jp/",
    "ok": true,
    "note": "セール関連の文 3件",
-   "checked": "2026-11-14T04:33:02.165264+09:00"
+   "checked": "2026-11-14T10:23:36.943895+09:00"
   },
   "AIRDO": {
    "url": "https://www.airdo.jp/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-11-14T04:33:02.165264+09:00"
+   "checked": "2026-11-14T10:23:36.943895+09:00"
   }
  }
 }
