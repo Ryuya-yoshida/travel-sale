@@ -1563,17 +1563,6 @@
    "travel": [],
    "first_seen": "2026-10-07T05:09:59.955288+09:00"
   },
-  "34416990c290dada": {
-   "id": "34416990c290dada",
-   "title": "【Amazonセール】Dogtailのアルカリ乾電池の単4形、単3形、単1形の各セットが特別価格で登場 - hobby Watch",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82dFIyUW1Wd1JQbDZwWXVtbkVVT0FLUXZ2YXRxcnZQWWNEYUtYRjlvSENYaWxoMGJxd2lKNlpzZzRNQ3QzX25PRW1Uc0ZLeG5TUUpKMHRlNTJHWE4yUXJxYWpBWlA3WVU?oc=5",
-   "source": "hobby Watch",
-   "published": "2026-10-02T00:05:00+09:00",
-   "announce": false,
-   "dates": [],
-   "travel": [],
-   "first_seen": "2026-10-07T05:09:59.955288+09:00"
-  },
   "d6d13b3519f16038": {
    "id": "d6d13b3519f16038",
    "title": "JAL、日付変わって0時から「国内航空券タイムセール」。年末年始も対象、羽田～九州は1万2210円～ - 千葉テレビ放送株式会社",
@@ -9846,6 +9835,50 @@
    "dates": [],
    "travel": [],
    "first_seen": "2026-11-15T15:12:25.096724+09:00"
+  },
+  "d42019f9c94e4624": {
+   "id": "d42019f9c94e4624",
+   "title": "ANA、国内線タイムセール開始。1～3月搭乗分、羽田～伊丹9130円～/新千歳1万450円～/福岡1万1000円～ - Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RUE53X0VqWnp1V0ZFbnI5QkF1TWQyekowbVRlSDdZNHRXNVRvanVEU3VvVnQzTXJxdTRLMWFaV1M3aXdXQWlNdmZoUGZaSjhIaUV1YzlIQURlZFBGNVNPZUZlV25uTXBjX0IxWEhzSVBwclNfSTdUUDk1ZzJIMXM?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-11-13T14:58:00+09:00",
+   "announce": true,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-16T01:15:21.486897+09:00"
+  },
+  "d6f0a0fc9b0593d1": {
+   "id": "d6f0a0fc9b0593d1",
+   "title": "7990円→2990円はお得すぎ！ユニクロの「1週間限定セール商品」3選。即戦力の“高見えアウター”も安く買えちゃうの！ - au Webポータル",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41UlR2cDNyVzhLd1BNaVRyRU1VOXFTbnR4Yld0ZHc3RG41ZjdJWGlQWXgwVHdwZk1PRWpvaTJHMUR4ZGhfbjR2dWZIcmNuOFRlQWFhWDBIRlVEVjFGc2l3R0RablZQUnlVTDFjcVhR?oc=5",
+   "source": "au Webポータル",
+   "published": "2026-11-10T12:42:46+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-16T01:15:21.486897+09:00"
+  },
+  "e8c8e589d25573c4": {
+   "id": "e8c8e589d25573c4",
+   "title": "【キャンペーン】ニコン「Z7II」が最大10万円キャッシュバック - デジカメ Watch",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5X3dOclZWXzhrMEJ3WGt1eG8yQ1AwUzYtM0ZmYXZXSDJhM0thOTNYNUJVcFE5VTVyYTBzZ05kY1lwc0h6XzFwN0dLcDBQVkpBVlVDWmVwRE1XZHpWcERZbW0tMFl1cWZxaXZmTTVKOA?oc=5",
+   "source": "デジカメ Watch",
+   "published": "2026-11-10T15:24:53+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-16T01:15:21.486897+09:00"
+  },
+  "5e948797950b93c0": {
+   "id": "5e948797950b93c0",
+   "title": "JR東海ツアーズ、新幹線＋ホテルがお得な「BLACK FRIDAY SALE」。LINE連携の先行セール開始、連泊割も新登場 - Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iSG14NDBDWVBZRnFQVTdvZHpqUWlJaDl2TG1RakNXWVFhUE8xcGtMZTg1X25kQVRKeVExVmNxX3V5M0VCRk9XRUZMWDdZRjRidXVaVEpsYnlEUkpIek5Xc3hMX0JWUzl0dDhkUlBOOGpsY2dtX1BrcUh2UmJDRGM?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-11-11T14:36:00+09:00",
+   "announce": true,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-16T01:15:21.486897+09:00"
   }
  },
  "pages": {
@@ -9943,97 +9976,97 @@
    "url": "https://www.traicy.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-11-15T15:12:25.096724+09:00"
+   "checked": "2026-11-16T01:15:21.486897+09:00"
   },
   "Aviation Wire": {
    "url": "https://www.aviationwire.jp/feed",
    "ok": true,
    "note": "記事 10件",
-   "checked": "2026-11-15T15:12:25.096724+09:00"
+   "checked": "2026-11-16T01:15:21.486897+09:00"
   },
   "たびりす": {
    "url": "https://tabiris.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-11-15T15:12:25.096724+09:00"
+   "checked": "2026-11-16T01:15:21.486897+09:00"
   },
   "ANA 国内線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/",
    "ok": true,
    "note": "セール関連の文 26件",
-   "checked": "2026-11-15T15:12:25.096724+09:00"
+   "checked": "2026-11-16T01:15:21.486897+09:00"
   },
   "ANA 国際線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/international/theme/special_prj/",
    "ok": true,
    "note": "セール関連の文 15件",
-   "checked": "2026-11-15T15:12:25.096724+09:00"
+   "checked": "2026-11-16T01:15:21.486897+09:00"
   },
   "ANA 国内ツアータイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/domtour/",
    "ok": true,
    "note": "セール関連の文 11件",
-   "checked": "2026-11-15T15:12:25.096724+09:00"
+   "checked": "2026-11-16T01:15:21.486897+09:00"
   },
   "JAL 国内線タイムセール": {
    "url": "https://www.jal.co.jp/jp/ja/dom/special/timesale/",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-11-15T15:12:25.096724+09:00"
+   "checked": "2026-11-16T01:15:21.486897+09:00"
   },
   "Peach トップ": {
    "url": "https://www.flypeach.com/",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-15T15:12:25.096724+09:00"
+   "checked": "2026-11-16T01:15:21.486897+09:00"
   },
   "Peach セール": {
    "url": "https://www.flypeach.com/um/specials/sale/sale",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-15T15:12:25.096724+09:00"
+   "checked": "2026-11-16T01:15:21.486897+09:00"
   },
   "ジェットスター": {
    "url": "https://www.jetstar.com/jp/ja/deals",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-15T15:12:25.096724+09:00"
+   "checked": "2026-11-16T01:15:21.486897+09:00"
   },
   "スカイマーク": {
    "url": "https://www.skymark.co.jp/ja/",
    "ok": true,
    "note": "セール関連の文 2件",
-   "checked": "2026-11-15T15:12:25.096724+09:00"
+   "checked": "2026-11-16T01:15:21.486897+09:00"
   },
   "ZIPAIR": {
    "url": "https://www.zipair.net/ja",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-11-15T15:12:25.096724+09:00"
+   "checked": "2026-11-16T01:15:21.486897+09:00"
   },
   "スプリング・ジャパン": {
    "url": "https://jp.ch.com/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-11-15T15:12:25.096724+09:00"
+   "checked": "2026-11-16T01:15:21.486897+09:00"
   },
   "スターフライヤー": {
    "url": "https://www.starflyer.jp/",
    "ok": true,
    "note": "セール関連の文 5件",
-   "checked": "2026-11-15T15:12:25.096724+09:00"
+   "checked": "2026-11-16T01:15:21.486897+09:00"
   },
   "ソラシドエア": {
    "url": "https://www.solaseedair.jp/",
    "ok": true,
    "note": "セール関連の文 3件",
-   "checked": "2026-11-15T15:12:25.096724+09:00"
+   "checked": "2026-11-16T01:15:21.486897+09:00"
   },
   "AIRDO": {
    "url": "https://www.airdo.jp/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-11-15T15:12:25.096724+09:00"
+   "checked": "2026-11-16T01:15:21.486897+09:00"
   }
  }
 }
