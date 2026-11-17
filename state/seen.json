@@ -9757,6 +9757,17 @@
    "dates": [],
    "travel": [],
    "first_seen": "2026-11-17T12:42:01.680132+09:00"
+  },
+  "48abf39b0df8707c": {
+   "id": "48abf39b0df8707c",
+   "title": "■ＡＮＡがタイムセール、１９日まで - 琉球新報デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOSkJNLUZ3ZXBSMzQ4Q042MW5MeUp5ekJFQjRaNURkenJTQ1NvTmlFM1A1QzNXWU9YdE1GdkRYYW5rbk9neXBGNFBsb2Rwd3Bxd3VXX1lwV1dBQzNWNEM1Q0p3?oc=5",
+   "source": "琉球新報デジタル",
+   "published": "2026-11-17T05:00:00+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-17T14:14:55.374776+09:00"
   }
  },
  "pages": {
@@ -9855,97 +9866,97 @@
    "url": "https://www.traicy.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-11-17T12:42:01.680132+09:00"
+   "checked": "2026-11-17T14:14:55.374776+09:00"
   },
   "Aviation Wire": {
    "url": "https://www.aviationwire.jp/feed",
    "ok": true,
    "note": "記事 10件",
-   "checked": "2026-11-17T12:42:01.680132+09:00"
+   "checked": "2026-11-17T14:14:55.374776+09:00"
   },
   "たびりす": {
    "url": "https://tabiris.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-11-17T12:42:01.680132+09:00"
+   "checked": "2026-11-17T14:14:55.374776+09:00"
   },
   "ANA 国内線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/",
    "ok": true,
    "note": "セール関連の文 26件",
-   "checked": "2026-11-17T12:42:01.680132+09:00"
+   "checked": "2026-11-17T14:14:55.374776+09:00"
   },
   "ANA 国際線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/international/theme/special_prj/",
    "ok": true,
    "note": "セール関連の文 15件",
-   "checked": "2026-11-17T12:42:01.680132+09:00"
+   "checked": "2026-11-17T14:14:55.374776+09:00"
   },
   "ANA 国内ツアータイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/domtour/",
    "ok": true,
    "note": "セール関連の文 11件",
-   "checked": "2026-11-17T12:42:01.680132+09:00"
+   "checked": "2026-11-17T14:14:55.374776+09:00"
   },
   "JAL 国内線タイムセール": {
    "url": "https://www.jal.co.jp/jp/ja/dom/special/timesale/",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-11-17T12:42:01.680132+09:00"
+   "checked": "2026-11-17T14:14:55.374776+09:00"
   },
   "Peach トップ": {
    "url": "https://www.flypeach.com/",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-17T12:42:01.680132+09:00"
+   "checked": "2026-11-17T14:14:55.374776+09:00"
   },
   "Peach セール": {
    "url": "https://www.flypeach.com/um/specials/sale/sale",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-17T12:42:01.680132+09:00"
+   "checked": "2026-11-17T14:14:55.374776+09:00"
   },
   "ジェットスター": {
    "url": "https://www.jetstar.com/jp/ja/deals",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-17T12:42:01.680132+09:00"
+   "checked": "2026-11-17T14:14:55.374776+09:00"
   },
   "スカイマーク": {
    "url": "https://www.skymark.co.jp/ja/",
    "ok": true,
    "note": "セール関連の文 2件",
-   "checked": "2026-11-17T12:42:01.680132+09:00"
+   "checked": "2026-11-17T14:14:55.374776+09:00"
   },
   "ZIPAIR": {
    "url": "https://www.zipair.net/ja",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-11-17T12:42:01.680132+09:00"
+   "checked": "2026-11-17T14:14:55.374776+09:00"
   },
   "スプリング・ジャパン": {
    "url": "https://jp.ch.com/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-11-17T12:42:01.680132+09:00"
+   "checked": "2026-11-17T14:14:55.374776+09:00"
   },
   "スターフライヤー": {
    "url": "https://www.starflyer.jp/",
    "ok": true,
    "note": "セール関連の文 5件",
-   "checked": "2026-11-17T12:42:01.680132+09:00"
+   "checked": "2026-11-17T14:14:55.374776+09:00"
   },
   "ソラシドエア": {
    "url": "https://www.solaseedair.jp/",
    "ok": true,
    "note": "セール関連の文 4件",
-   "checked": "2026-11-17T12:42:01.680132+09:00"
+   "checked": "2026-11-17T14:14:55.374776+09:00"
   },
   "AIRDO": {
    "url": "https://www.airdo.jp/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-11-17T12:42:01.680132+09:00"
+   "checked": "2026-11-17T14:14:55.374776+09:00"
   }
  }
 }
