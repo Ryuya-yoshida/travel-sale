@@ -60,17 +60,6 @@
    "first_seen": "2026-10-04T22:56:58.293329+09:00",
    "travel": []
   },
-  "f51e492bd5bb5b3a": {
-   "id": "f51e492bd5bb5b3a",
-   "title": "カタール航空、週末限定セール開催 欧州などが最大15％オフ - TRAICY（トライシー）",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5fLWZPRXUzNFh3NlZCQ1l6MXNpak94RlBLYV80TUdSSF9kMlZNaWNjaFM2aEN4THUwVU9JTlBlTVFVcFhNOEtj?oc=5",
-   "source": "TRAICY（トライシー）",
-   "published": "2026-10-04T12:30:29+09:00",
-   "announce": false,
-   "dates": [],
-   "first_seen": "2026-10-04T22:56:58.293329+09:00",
-   "travel": []
-  },
   "97e2f00fa6323d77": {
    "id": "97e2f00fa6323d77",
    "title": "トリニティ航空、日本発着路線を対象に燃油・諸税込み片道16,050円からのセールを開催中 - sky-budget.com",
@@ -283,75 +272,12 @@
    "first_seen": "2026-10-04T22:56:58.293329+09:00",
    "travel": []
   },
-  "53e92ed01134a1d1": {
-   "id": "53e92ed01134a1d1",
-   "title": "ヤフートラベル、「超得セール！人気宿スペシャル」を開催中 10月9日まで - TRAICY（トライシー）",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1oU2ZfN0xjZTI1ZlIxdW4wbVo1R2FCZUZvRGp2bEk1X0JqWDhNMXdmOWFOR2hYdkFwRmFhUE9yOE1fSUF4VDZz?oc=5",
-   "source": "TRAICY（トライシー）",
-   "published": "2026-10-04T11:39:03+09:00",
-   "announce": false,
-   "dates": [
-    "2026-10-09"
-   ],
-   "first_seen": "2026-10-04T22:56:58.293329+09:00",
-   "travel": []
-  },
-  "1b30425a689ced8e": {
-   "id": "1b30425a689ced8e",
-   "title": "ヤフートラベル、「ラグジュアリールームセール」を開催中 10月9日まで - TRAICY（トライシー）",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1lN01DUktOYmNOZlBvLXNaRGV3a20yRlNjRnkyMXQ0Wm5qRzBQY3VLeThuZk9FWHZKVndvd1hYSElKTkd0amhN?oc=5",
-   "source": "TRAICY（トライシー）",
-   "published": "2026-10-04T12:19:03+09:00",
-   "announce": false,
-   "dates": [
-    "2026-10-09"
-   ],
-   "first_seen": "2026-10-04T22:56:58.293329+09:00",
-   "travel": []
-  },
-  "20d6179bdc67a17a": {
-   "id": "20d6179bdc67a17a",
-   "title": "一休、「ラグジュアリールームセール」を開催中 10月9日まで - TRAICY（トライシー）",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NSDB4RWRNY1UzeGVzTWdNcGNHb0R6ZTE2Z2FJbGU3Y1F0RXIyN0NYNkJJLUdBNk11Y3hnUVhSWG9hbmg2QXdhSXNtYTlVVUlERTYtVmc2VQ?oc=5",
-   "source": "TRAICY（トライシー）",
-   "published": "2026-10-04T11:46:21+09:00",
-   "announce": false,
-   "dates": [
-    "2026-10-09"
-   ],
-   "first_seen": "2026-10-04T22:56:58.293329+09:00",
-   "travel": []
-  },
-  "1e57eea5af198a36": {
-   "id": "1e57eea5af198a36",
-   "title": "【画像】一休、「ラグジュアリールームセール」を開催中 10月9日まで - ライブドアニュース",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HMWVkN2RDa0s4eVFkNlROcXNvQURsRlNoTDFaeVlreWR1SHhfTW80ZWZBRmpaaGQzMVRqVWFPTTBYczdGYkRpT3pjNkx3NnRRN1FYOGFZV3BfTFVkbzVoYlRMblRmVDUxakZzdnN4VlUxZW9taVZhd21hRzg?oc=5",
-   "source": "ライブドアニュース",
-   "published": "2026-10-04T11:45:14+09:00",
-   "announce": false,
-   "dates": [
-    "2026-10-09"
-   ],
-   "first_seen": "2026-10-04T22:56:58.293329+09:00",
-   "travel": []
-  },
   "2ec5ddf7b7e7c8ec": {
    "id": "2ec5ddf7b7e7c8ec",
    "title": "【10月更新】Xperia 10 VIIの投げ売りキャンペーン値下げ情報・安く買う方法を解説 - economical.co.jp",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BUjFfQktjNGhYaTdobXh5TFNheWtaaGJWeFo5dlhWRHpxODQ4ZXdDcElBN2M3LTIyaU84R3VoOU9iYUpVY3lNVXhMM3kxMWxycXoxZVFZZWllU2dIeENJczB5a3pwdUh3NEJCQTRtN2RWN3dqd0ttVw?oc=5",
    "source": "economical.co.jp",
    "published": "2026-10-05T08:40:25+09:00",
-   "announce": false,
-   "dates": [],
-   "first_seen": "2026-10-04T22:56:58.293329+09:00",
-   "travel": []
-  },
-  "534208f7d720f796": {
-   "id": "534208f7d720f796",
-   "title": "「ふっこう割」に沸く九州、宿泊最大６割引きで即完売…クーポン適用できずキャンセル続出も - ｄメニューニュース",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdnNLaWpvS1F1dWYtS19WeGtkb2JtbkNRRU9VVWd1S3lCTGItUGtnaC1vU0ZkVk4xMGFQcWNvdmVPaVZCYm1WUnNrUkpWRkFnSF9EblI4UFRvbWQ5bl9xaGFDVGViSWY2RWFTWkNZYlBrNHZnZDdUX3dscmVQYWlsQVU1WE9vVnNyb2Zuam9R0gGKAUFVX3lxTE1qaklFcDBDSDVUbXQ5bUZBaEJ4Z2ZKR19GS29pTHd2Q19IWnJoaWpBTFNuWHVFRG12VnRsbWtNdzJIaUJWcUZiWTFDTVFIc3JYY2tkYWdRVHJFcHp0Y3l6REVBeGFNME9EemFOdWhBdUNkbFNaY2ljenRvRi1PZzhXUVpzcmxZZk1hUQ?oc=5",
-   "source": "ｄメニューニュース",
-   "published": "2026-10-04T11:44:00+09:00",
    "announce": false,
    "dates": [],
    "first_seen": "2026-10-04T22:56:58.293329+09:00",
@@ -1432,28 +1358,6 @@
    "dates": [],
    "travel": [],
    "first_seen": "2026-10-08T03:50:33.061608+09:00"
-  },
-  "bf135072a806edd9": {
-   "id": "bf135072a806edd9",
-   "title": "【画像】楽天トラベル、「オータムSALE」を開催中 国内宿泊最大20％オフ、楽パック最大15,000円クーポンなど - ライブドアニュース",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmSEFfZjVwV1JTSXNJd241M0RFMEw3eVlfUEowOTlEeWQtVTFQczVHVXItUnRpcnRUSzUzQmdOejIyUnpqV2pnekwzTEVvOHlrMUdPa29fcUh0eVZEVVhaaTBZc3hPVDJJN25rR3d5UC1zWFM4em9HOW9oMS0?oc=5",
-   "source": "ライブドアニュース",
-   "published": "2026-10-04T12:45:09+09:00",
-   "announce": false,
-   "dates": [],
-   "travel": [],
-   "first_seen": "2026-10-08T03:50:33.061608+09:00"
-  },
-  "4ff4aba7806da164": {
-   "id": "4ff4aba7806da164",
-   "title": "Steamセール開催中、FF7リバースが1,973円に――「買ってしまうからやめてほしい」の声 - shiritomo",
-   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE82SDlTcXBJTENVR0YxbFgtWlUwQVpXTGV1bTJZR1BFdHIxQjRjR0hRZkxoQTd4TVFmYUxPbDRWcktUTXBG?oc=5",
-   "source": "shiritomo",
-   "published": "2026-10-04T13:16:31+09:00",
-   "announce": false,
-   "dates": [],
-   "travel": [],
-   "first_seen": "2026-10-08T09:55:37.724725+09:00"
   },
   "6312844925eb7321": {
    "id": "6312844925eb7321",
@@ -9939,6 +9843,83 @@
    "dates": [],
    "travel": [],
    "first_seen": "2026-11-18T09:53:51.839769+09:00"
+  },
+  "bc5f3886ace78695": {
+   "id": "bc5f3886ace78695",
+   "title": "JAL、国際線航空券でブラックフライデータイムセール開催中 台北往復5.9万円、ホノルル往復11万円など - TRAICY（トライシー）",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9XMEVtRG0wMDZYWms0Y3loZ0s1UE5SWnBZd1RrQWtzRmMzamNtVG9TQzlnNTRMLWdXY0tya1NCeS1xT3QtXzFR?oc=5",
+   "source": "TRAICY（トライシー）",
+   "published": "2026-11-18T12:13:38+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-18T13:43:46.197011+09:00"
+  },
+  "e6faec6a7b690d51": {
+   "id": "e6faec6a7b690d51",
+   "title": "全国10施設のプレミアム・アウトレットで約960店が参加するブラックフライデーセール。最大70％オフのショッピングと「黒」グルメを味わう (トラベル Watch) - Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRndzU2lxMDRqMWkyODIxbWhBY1hWRnBQVG1KaU50d1M4SjNCYThGM0pQWHRQX0FBOUFPdXQ2THBfU0pNcFZEOGstNy0wSDFwNDh2d2stQXc2RmNEVlNNVWtOa0FsY09pd1JHMGxmT1NNbmI5U04zWHBtc2xWV3UxR0ZLWU1BTzEteVUyWU1R?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-11-18T06:23:27+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-18T13:43:46.197011+09:00"
+  },
+  "eef19d8d2a83d821": {
+   "id": "eef19d8d2a83d821",
+   "title": "【本日みつけたお買い得品】Type-C/A両対応！バッファロー製USBメモリがAmazonでセール - PC Watch",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hRnBzOFNRQlZHclhfZmE0TngzLU9URXNkQndDT2VTb3U0ZEFpazdBZVRZQ25rNEVRRFNGaXhHTDQ0NmQ3enhRekZXdFQzRUszOVZhVnZFcW5WdlBPeFNMX0dVcG42WXpJa3Z2amVoQ1J5QzR5?oc=5",
+   "source": "PC Watch",
+   "published": "2026-11-16T10:35:59+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-18T13:43:46.197011+09:00"
+  },
+  "1cff91315b964fb1": {
+   "id": "1cff91315b964fb1",
+   "title": "【本日みつけたお買い得品】REGZAの27型WQHDアイケアモニターが1万870円引き、Amazonでセール - PC Watch",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PMHpwNGE5WXJ2dDVCa2pnaXZNUEZkaDUtNGhTVkZpcXlSOElXT0VxeElQZVJ6VzdBY096VkVQQXlock5SbHBRTkc0RVVOZTVaRGpLVU5PVXRhbjV5N3NUeTlZS3dSOXh6MFh6a1l1SF9hV0pR?oc=5",
+   "source": "PC Watch",
+   "published": "2026-11-14T09:06:26+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-18T13:43:46.197011+09:00"
+  },
+  "0dfe258a2cb0eabe": {
+   "id": "0dfe258a2cb0eabe",
+   "title": "【Amazonセール】シャークの軽量スティッククリーナー「EVOPOWER SYSTEM NEO」Amazon限定モデルがお買い得 - hobby Watch",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6THBheDNuUS12M3JieXdXNy1DSEJLTkxaZEwzSDdHQ1JYZEg3TEhRMzdjVWFWV0Zmd1hmZ25QLXpXLWpiUGJuY0J0OERyYkxxaUgzTjJ4WUtzOG42UWFjd0Q0S1k0WGc?oc=5",
+   "source": "hobby Watch",
+   "published": "2026-11-16T09:44:31+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-18T13:43:46.197011+09:00"
+  },
+  "a4141eb6c1632576": {
+   "id": "a4141eb6c1632576",
+   "title": "IHGホテルズ＆リゾーツ、会員は最大30％オフの「サイバーセール」開催！ - PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JY3N4aEJCX2lqNHVkQXNRM2JhMndRNC1nN2ZWZXRVWnZuamV1NnNfZnljYzl5am5HaXJRbFJuemRrRGlLWk1qVjNwMEtwempTTUF6TDFEX0Y1cTlza3pEQm5RVm5SelFZQ2c?oc=5",
+   "source": "PR TIMES",
+   "published": "2026-11-18T10:02:10+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-18T13:43:46.197011+09:00"
+  },
+  "0be440bb2ed2cea3": {
+   "id": "0be440bb2ed2cea3",
+   "title": "スカイマーク｜★たす旅 BLACK FRIDAY TIME SALE開催中★ 公式ダイナミックパッケージ \"たす旅\" で使える最大50,000円OFFクーポン配布中。 >詳しくはこちら",
+   "link": "https://www.skymark.co.jp/ja/campaign/tasutabi/",
+   "source": "スカイマーク（公式）",
+   "published": "2026-11-18T13:43:46.197011+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-18T13:43:46.197011+09:00"
   }
  },
  "pages": {
@@ -10010,7 +9991,7 @@
   ],
   "https://www.skymark.co.jp/ja/": [
    "SKYセール",
-   "★たす旅 タイムセール開催中★ 公式ダイナミックパッケージ \"たす旅\" で使える最大25,000円OFFクーポン配布中。 >詳しくはこちら"
+   "★たす旅 BLACK FRIDAY TIME SALE開催中★ 公式ダイナミックパッケージ \"たす旅\" で使える最大50,000円OFFクーポン配布中。 >詳しくはこちら"
   ],
   "https://jp.ch.com/": [
    "キャンペーン・セールまとめ"
@@ -10037,97 +10018,97 @@
    "url": "https://www.traicy.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-11-18T09:53:51.839769+09:00"
+   "checked": "2026-11-18T13:43:46.197011+09:00"
   },
   "Aviation Wire": {
    "url": "https://www.aviationwire.jp/feed",
    "ok": true,
    "note": "記事 10件",
-   "checked": "2026-11-18T09:53:51.839769+09:00"
+   "checked": "2026-11-18T13:43:46.197011+09:00"
   },
   "たびりす": {
    "url": "https://tabiris.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-11-18T09:53:51.839769+09:00"
+   "checked": "2026-11-18T13:43:46.197011+09:00"
   },
   "ANA 国内線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/",
    "ok": true,
    "note": "セール関連の文 26件",
-   "checked": "2026-11-18T09:53:51.839769+09:00"
+   "checked": "2026-11-18T13:43:46.197011+09:00"
   },
   "ANA 国際線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/international/theme/special_prj/",
    "ok": true,
    "note": "セール関連の文 15件",
-   "checked": "2026-11-18T09:53:51.839769+09:00"
+   "checked": "2026-11-18T13:43:46.197011+09:00"
   },
   "ANA 国内ツアータイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/domtour/",
    "ok": true,
    "note": "セール関連の文 11件",
-   "checked": "2026-11-18T09:53:51.839769+09:00"
+   "checked": "2026-11-18T13:43:46.197011+09:00"
   },
   "JAL 国内線タイムセール": {
    "url": "https://www.jal.co.jp/jp/ja/dom/special/timesale/",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-11-18T09:53:51.839769+09:00"
+   "checked": "2026-11-18T13:43:46.197011+09:00"
   },
   "Peach トップ": {
    "url": "https://www.flypeach.com/",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-18T09:53:51.839769+09:00"
+   "checked": "2026-11-18T13:43:46.197011+09:00"
   },
   "Peach セール": {
    "url": "https://www.flypeach.com/um/specials/sale/sale",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-18T09:53:51.839769+09:00"
+   "checked": "2026-11-18T13:43:46.197011+09:00"
   },
   "ジェットスター": {
    "url": "https://www.jetstar.com/jp/ja/deals",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-18T09:53:51.839769+09:00"
+   "checked": "2026-11-18T13:43:46.197011+09:00"
   },
   "スカイマーク": {
    "url": "https://www.skymark.co.jp/ja/",
    "ok": true,
    "note": "セール関連の文 2件",
-   "checked": "2026-11-18T09:53:51.839769+09:00"
+   "checked": "2026-11-18T13:43:46.197011+09:00"
   },
   "ZIPAIR": {
    "url": "https://www.zipair.net/ja",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-11-18T09:53:51.839769+09:00"
+   "checked": "2026-11-18T13:43:46.197011+09:00"
   },
   "スプリング・ジャパン": {
    "url": "https://jp.ch.com/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-11-18T09:53:51.839769+09:00"
+   "checked": "2026-11-18T13:43:46.197011+09:00"
   },
   "スターフライヤー": {
    "url": "https://www.starflyer.jp/",
    "ok": true,
    "note": "セール関連の文 5件",
-   "checked": "2026-11-18T09:53:51.839769+09:00"
+   "checked": "2026-11-18T13:43:46.197011+09:00"
   },
   "ソラシドエア": {
    "url": "https://www.solaseedair.jp/",
    "ok": true,
    "note": "セール関連の文 4件",
-   "checked": "2026-11-18T09:53:51.839769+09:00"
+   "checked": "2026-11-18T13:43:46.197011+09:00"
   },
   "AIRDO": {
    "url": "https://www.airdo.jp/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-11-18T09:53:51.839769+09:00"
+   "checked": "2026-11-18T13:43:46.197011+09:00"
   }
  }
 }
