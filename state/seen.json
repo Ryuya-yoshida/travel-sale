@@ -110,17 +110,6 @@
    "first_seen": "2026-10-04T22:56:58.293329+09:00",
    "travel": []
   },
-  "5c4add257ee86496": {
-   "id": "5c4add257ee86496",
-   "title": "HIS、「国内タイムセール」開催中 沖縄3日間19,800円からなど - TRAICY（トライシー）",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1za0R0cTdINUlzbHhpSTlFandXSDlBdHhQc2FwamNnRHdtMUMtTWFGTm1aRG1HX0Rjcl82MEZQTVFrM0FJaHNR?oc=5",
-   "source": "TRAICY（トライシー）",
-   "published": "2026-10-05T11:59:41+09:00",
-   "announce": false,
-   "dates": [],
-   "first_seen": "2026-10-04T22:56:58.293329+09:00",
-   "travel": []
-  },
   "9f3d33090b6a01a1": {
    "id": "9f3d33090b6a01a1",
    "title": "JALじゃらんパック、「3日間限定セール」開催中 10月8日まで - TRAICY（トライシー）",
@@ -140,28 +129,6 @@
    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1vUU1KMTJvUWJUUWJHSG11QTMyRWF1SzQydUVvUzloTUg3TVZtc0UyYlk5RXBxZk9UZXgtSW1SS1l5WmJlQ3VB?oc=5",
    "source": "TRAICY（トライシー）",
    "published": "2026-10-05T21:17:25+09:00",
-   "announce": false,
-   "dates": [],
-   "first_seen": "2026-10-04T22:56:58.293329+09:00",
-   "travel": []
-  },
-  "42e2149bbfbb3d41": {
-   "id": "42e2149bbfbb3d41",
-   "title": "ヤフートラベル、「JAL限定クーポン」を配布 最大2万円割引 - TRAICY（トライシー）",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9Rc2dqYThMZUtWd0NVNUNkRkFERDZkdmR2Z0p3TGFlXzM4TlcwbkZHenctY2VzdEx5VHE3VF9YQmd2VVRyVk40?oc=5",
-   "source": "TRAICY（トライシー）",
-   "published": "2026-10-05T12:19:50+09:00",
-   "announce": false,
-   "dates": [],
-   "first_seen": "2026-10-04T22:56:58.293329+09:00",
-   "travel": []
-  },
-  "57e5f42fcd05fd3a": {
-   "id": "57e5f42fcd05fd3a",
-   "title": "ふるさと納税「ふるなびトラベル予約」、最大2万円オフのキャンペーン第2弾 - TRAICY（トライシー）",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9kMm4xRXN4X19oSnN2ZTJ5VGpNNFh6R085elY1THRLOG1qZDkxaW5nVkVCVUtZSW0xcWlsWHJoblFmRkxueW9Z?oc=5",
-   "source": "TRAICY（トライシー）",
-   "published": "2026-10-05T12:29:54+09:00",
    "announce": false,
    "dates": [],
    "first_seen": "2026-10-04T22:56:58.293329+09:00",
@@ -9972,6 +9939,17 @@
    "dates": [],
    "travel": [],
    "first_seen": "2026-11-19T11:29:10.960198+09:00"
+  },
+  "cad7b43c5bcdbfb2": {
+   "id": "cad7b43c5bcdbfb2",
+   "title": "【Amazonタイムセール】INIU 超小型モバイルバッテリー 10000mAh 45W急速充電、3色が対象 - AppBank",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwZnFvcm5lbzF5aEluX3Y3LXFMMFZFV2xRTkFsMlp4aXFobHA0NVFkZW5YdFBBSURWTzduTjEwYm5rb00zdVVoRmhlWWNBc05nWkFWOWJteHpvQmhkZ285cDhxNnBJOFlEMHc?oc=5",
+   "source": "AppBank",
+   "published": "2026-11-19T12:22:01+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-19T13:31:33.952602+09:00"
   }
  },
  "pages": {
@@ -10070,97 +10048,97 @@
    "url": "https://www.traicy.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-11-19T11:29:10.960198+09:00"
+   "checked": "2026-11-19T13:31:33.952602+09:00"
   },
   "Aviation Wire": {
    "url": "https://www.aviationwire.jp/feed",
    "ok": true,
    "note": "記事 10件",
-   "checked": "2026-11-19T11:29:10.960198+09:00"
+   "checked": "2026-11-19T13:31:33.952602+09:00"
   },
   "たびりす": {
    "url": "https://tabiris.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-11-19T11:29:10.960198+09:00"
+   "checked": "2026-11-19T13:31:33.952602+09:00"
   },
   "ANA 国内線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/",
    "ok": true,
    "note": "セール関連の文 26件",
-   "checked": "2026-11-19T11:29:10.960198+09:00"
+   "checked": "2026-11-19T13:31:33.952602+09:00"
   },
   "ANA 国際線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/international/theme/special_prj/",
    "ok": true,
    "note": "セール関連の文 15件",
-   "checked": "2026-11-19T11:29:10.960198+09:00"
+   "checked": "2026-11-19T13:31:33.952602+09:00"
   },
   "ANA 国内ツアータイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/domtour/",
    "ok": true,
    "note": "セール関連の文 11件",
-   "checked": "2026-11-19T11:29:10.960198+09:00"
+   "checked": "2026-11-19T13:31:33.952602+09:00"
   },
   "JAL 国内線タイムセール": {
    "url": "https://www.jal.co.jp/jp/ja/dom/special/timesale/",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-11-19T11:29:10.960198+09:00"
+   "checked": "2026-11-19T13:31:33.952602+09:00"
   },
   "Peach トップ": {
    "url": "https://www.flypeach.com/",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-19T11:29:10.960198+09:00"
+   "checked": "2026-11-19T13:31:33.952602+09:00"
   },
   "Peach セール": {
    "url": "https://www.flypeach.com/um/specials/sale/sale",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-19T11:29:10.960198+09:00"
+   "checked": "2026-11-19T13:31:33.952602+09:00"
   },
   "ジェットスター": {
    "url": "https://www.jetstar.com/jp/ja/deals",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-19T11:29:10.960198+09:00"
+   "checked": "2026-11-19T13:31:33.952602+09:00"
   },
   "スカイマーク": {
    "url": "https://www.skymark.co.jp/ja/",
    "ok": true,
    "note": "セール関連の文 2件",
-   "checked": "2026-11-19T11:29:10.960198+09:00"
+   "checked": "2026-11-19T13:31:33.952602+09:00"
   },
   "ZIPAIR": {
    "url": "https://www.zipair.net/ja",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-11-19T11:29:10.960198+09:00"
+   "checked": "2026-11-19T13:31:33.952602+09:00"
   },
   "スプリング・ジャパン": {
    "url": "https://jp.ch.com/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-11-19T11:29:10.960198+09:00"
+   "checked": "2026-11-19T13:31:33.952602+09:00"
   },
   "スターフライヤー": {
    "url": "https://www.starflyer.jp/",
    "ok": true,
    "note": "セール関連の文 5件",
-   "checked": "2026-11-19T11:29:10.960198+09:00"
+   "checked": "2026-11-19T13:31:33.952602+09:00"
   },
   "ソラシドエア": {
    "url": "https://www.solaseedair.jp/",
    "ok": true,
    "note": "セール関連の文 4件",
-   "checked": "2026-11-19T11:29:10.960198+09:00"
+   "checked": "2026-11-19T13:31:33.952602+09:00"
   },
   "AIRDO": {
    "url": "https://www.airdo.jp/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-11-19T11:29:10.960198+09:00"
+   "checked": "2026-11-19T13:31:33.952602+09:00"
   }
  }
 }
