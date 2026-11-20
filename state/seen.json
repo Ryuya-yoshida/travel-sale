@@ -9888,6 +9888,39 @@
    "dates": [],
    "travel": [],
    "first_seen": "2026-11-20T11:13:50.966272+09:00"
+  },
+  "aa51cd19a5598bc8": {
+   "id": "aa51cd19a5598bc8",
+   "title": "トリニティ航空、2027年の旅行を対象としたブラックフライデー早期予約セールを開始 - 株式会社共同通信社",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jNHU4YmRJRVFfMUM5dzVGY0NsM1NobjdjVzJlblVZNnNIdHJHaVJKZkI3b1hkcHdCYTBFQnAtT184U0JqT3luMy14N1V4b1kxQWE2d1RySV9zZw?oc=5",
+   "source": "株式会社共同通信社",
+   "published": "2026-11-20T11:21:00+09:00",
+   "announce": true,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-20T13:19:44.520418+09:00"
+  },
+  "6fd841f6a1873e07": {
+   "id": "6fd841f6a1873e07",
+   "title": "【本日みつけたお買い得品】サントリーの烏龍茶ピーチティーが約800円オトク！Amazonセール - PC Watch",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0NExEQ3VnNVNSdmNCZ3BBMW0tZ2ZmUWxCUENyT2k1Y0F3SzlmZ09ub3NTanlIUnJ5RGE4Q1cwQkdkbUN5a2ZkN3Y4LUpPTU5TeEpJMW11M2tJOUFXZXc1RUU0UHBqOHdLSXd5bWNMY0g4OHFU?oc=5",
+   "source": "PC Watch",
+   "published": "2026-11-20T10:39:31+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-20T13:19:44.520418+09:00"
+  },
+  "99ce66f3e98a85e8": {
+   "id": "99ce66f3e98a85e8",
+   "title": "【裏技】JTB九州応援割「配布終了」表示でも、キャンセル分クーポンコードとパスワードで予約する方法 - トラベラーズナビ",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hdDVqRFRCOWtTZjlubXVTTVJjamVkamRYRHNWR0JwbTlxWHV1X0czVFBuZmxwYzAxXzh2T3dJMUF4T0s1X2VKWEN6VFNQQ0tkSGRJSVNUclJqbm45aFE?oc=5",
+   "source": "トラベラーズナビ",
+   "published": "2026-11-17T20:59:05+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-20T13:19:44.520418+09:00"
   }
  },
  "pages": {
@@ -9988,97 +10021,97 @@
    "url": "https://www.traicy.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-11-20T11:13:50.966272+09:00"
+   "checked": "2026-11-20T13:19:44.520418+09:00"
   },
   "Aviation Wire": {
    "url": "https://www.aviationwire.jp/feed",
    "ok": true,
    "note": "記事 10件",
-   "checked": "2026-11-20T11:13:50.966272+09:00"
+   "checked": "2026-11-20T13:19:44.520418+09:00"
   },
   "たびりす": {
    "url": "https://tabiris.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-11-20T11:13:50.966272+09:00"
+   "checked": "2026-11-20T13:19:44.520418+09:00"
   },
   "ANA 国内線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/",
    "ok": true,
    "note": "セール関連の文 26件",
-   "checked": "2026-11-20T11:13:50.966272+09:00"
+   "checked": "2026-11-20T13:19:44.520418+09:00"
   },
   "ANA 国際線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/international/theme/special_prj/",
    "ok": true,
    "note": "セール関連の文 15件",
-   "checked": "2026-11-20T11:13:50.966272+09:00"
+   "checked": "2026-11-20T13:19:44.520418+09:00"
   },
   "ANA 国内ツアータイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/domtour/",
    "ok": true,
    "note": "セール関連の文 13件",
-   "checked": "2026-11-20T11:13:50.966272+09:00"
+   "checked": "2026-11-20T13:19:44.520418+09:00"
   },
   "JAL 国内線タイムセール": {
    "url": "https://www.jal.co.jp/jp/ja/dom/special/timesale/",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-11-20T11:13:50.966272+09:00"
+   "checked": "2026-11-20T13:19:44.520418+09:00"
   },
   "Peach トップ": {
    "url": "https://www.flypeach.com/",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-20T11:13:50.966272+09:00"
+   "checked": "2026-11-20T13:19:44.520418+09:00"
   },
   "Peach セール": {
    "url": "https://www.flypeach.com/um/specials/sale/sale",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-20T11:13:50.966272+09:00"
+   "checked": "2026-11-20T13:19:44.520418+09:00"
   },
   "ジェットスター": {
    "url": "https://www.jetstar.com/jp/ja/deals",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-20T11:13:50.966272+09:00"
+   "checked": "2026-11-20T13:19:44.520418+09:00"
   },
   "スカイマーク": {
    "url": "https://www.skymark.co.jp/ja/",
    "ok": true,
    "note": "セール関連の文 2件",
-   "checked": "2026-11-20T11:13:50.966272+09:00"
+   "checked": "2026-11-20T13:19:44.520418+09:00"
   },
   "ZIPAIR": {
    "url": "https://www.zipair.net/ja",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-11-20T11:13:50.966272+09:00"
+   "checked": "2026-11-20T13:19:44.520418+09:00"
   },
   "スプリング・ジャパン": {
    "url": "https://jp.ch.com/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-11-20T11:13:50.966272+09:00"
+   "checked": "2026-11-20T13:19:44.520418+09:00"
   },
   "スターフライヤー": {
    "url": "https://www.starflyer.jp/",
    "ok": true,
    "note": "セール関連の文 5件",
-   "checked": "2026-11-20T11:13:50.966272+09:00"
+   "checked": "2026-11-20T13:19:44.520418+09:00"
   },
   "ソラシドエア": {
    "url": "https://www.solaseedair.jp/",
    "ok": true,
    "note": "セール関連の文 4件",
-   "checked": "2026-11-20T11:13:50.966272+09:00"
+   "checked": "2026-11-20T13:19:44.520418+09:00"
   },
   "AIRDO": {
    "url": "https://www.airdo.jp/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-11-20T11:13:50.966272+09:00"
+   "checked": "2026-11-20T13:19:44.520418+09:00"
   }
  }
 }
