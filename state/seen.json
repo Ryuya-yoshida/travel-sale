@@ -1,16 +1,5 @@
 {
  "items": {
-  "7367bedf5dcf34f0": {
-   "id": "7367bedf5dcf34f0",
-   "title": "香港エクスプレス、羽田・成田・関西・中部・福岡・那覇～香港線を対象に片道4,000円からのセールを開催中 - sky-budget.com",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KcmpFLUNFaEtiVXlHYUZfellfMHY0c2xNbUwyRmhxM2M3OXdzb0xoVXNwQnZlNExDLWUtVTdabElOazlCNWJHZWtsNUZ1bW81VjNUZE1ZMnlrM3hGTzI2OGRn?oc=5",
-   "source": "sky-budget.com",
-   "published": "2026-10-06T08:41:59+09:00",
-   "announce": false,
-   "dates": [],
-   "first_seen": "2026-10-04T22:56:58.293329+09:00",
-   "travel": []
-  },
   "0102cfcf9308589e": {
    "id": "0102cfcf9308589e",
    "title": "マレーシア航空、日本発着路線を対象に燃油・諸税込往復61,420円からのセールを10月8日から開催 Enrich会員は6日から - sky-budget.com",
@@ -61,19 +50,6 @@
    "first_seen": "2026-10-04T22:56:58.293329+09:00",
    "travel": []
   },
-  "5415849d0a5fab5a": {
-   "id": "5415849d0a5fab5a",
-   "title": "【楽天トラベル特別セール】富山県「宇奈月温泉の老舗旅館 延対寺荘」が今だけ特別価格に！ 多くの文化人に親しまれてきた歴史ある宿【10月6日】 - All About ニュース",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKOEpyNzBoWWpyWnVzV1NrSUZHbG1BVjRWbkxwY0hoNDF4akRTTmFyc21SUE5JcWp1WGxTMWFUSEtScHk3YXM5UGZHTEFBOW1rTmlzckRZekVZZw?oc=5",
-   "source": "All About ニュース",
-   "published": "2026-10-06T10:00:00+09:00",
-   "announce": false,
-   "dates": [
-    "2026-10-06"
-   ],
-   "first_seen": "2026-10-04T22:56:58.293329+09:00",
-   "travel": []
-  },
   "b7b9289319928bd9": {
    "id": "b7b9289319928bd9",
    "title": "最大80％割引で宿泊できる福利厚生サービスを運営する「リゾートワークス」、10月5日よりタクシーCM放映開始 - iza.ne.jp",
@@ -93,17 +69,6 @@
    "link": "https://www.traicy.com/posts/20261006384029/",
    "source": "Traicy",
    "published": "2026-10-06T16:15:33+09:00",
-   "announce": false,
-   "dates": [],
-   "first_seen": "2026-10-04T22:56:58.293329+09:00",
-   "travel": []
-  },
-  "ecaa1087e61fdf36": {
-   "id": "ecaa1087e61fdf36",
-   "title": "楽天トラベル、国内宿泊でポイント最大15倍　「得旅キャンペーン」開催",
-   "link": "https://www.traicy.com/posts/20261006383915/",
-   "source": "Traicy",
-   "published": "2026-10-06T10:15:14+09:00",
    "announce": false,
    "dates": [],
    "first_seen": "2026-10-04T22:56:58.293329+09:00",
@@ -834,17 +799,6 @@
    "first_seen": "2026-10-04T22:56:58.293329+09:00",
    "travel": []
   },
-  "5bfd74c6c2c4d918": {
-   "id": "5bfd74c6c2c4d918",
-   "title": "香港エクスプレス、羽田・成田・関西・中部・福岡・那覇～香港線を対象に片道4,000円からのセールを開催中 - sky-budget スカイバジェット",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KcmpFLUNFaEtiVXlHYUZfellfMHY0c2xNbUwyRmhxM2M3OXdzb0xoVXNwQnZlNExDLWUtVTdabElOazlCNWJHZWtsNUZ1bW81VjNUZE1ZMnlrM3hGTzI2OGRn?oc=5",
-   "source": "sky-budget スカイバジェット",
-   "published": "2026-10-06T08:41:59+09:00",
-   "announce": false,
-   "dates": [],
-   "travel": [],
-   "first_seen": "2026-10-07T05:09:59.955288+09:00"
-  },
   "76d6ffe6c3da3198": {
    "id": "76d6ffe6c3da3198",
    "title": "マレーシア航空、日本発着路線を対象に燃油・諸税込往復61,420円からのセールを10月8日から開催 Enrich会員は6日から - sky-budget スカイバジェット",
@@ -1154,17 +1108,6 @@
    "travel": [],
    "first_seen": "2026-10-08T19:24:34.884382+09:00"
   },
-  "e14b8501b8796700": {
-   "id": "e14b8501b8796700",
-   "title": "【本日みつけたお買い得品】Wi-Fi 6対応の10型Androidタブレットがほぼ1万円でAmazonセール中 - 千葉テレビ放送株式会社",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xbC1rWkU1UXl0WmFiZ015amgxWlBUU29sM0l3WmFjR2xiYWI0cHFRYXRpQVVJbGNzY0dEWXdxZXRyRlZaMFMtSW9kdjJfMFVCamQzM0h0N1pqbDNtdHMxelVlZkE?oc=5",
-   "source": "千葉テレビ放送株式会社",
-   "published": "2026-10-06T10:54:23+09:00",
-   "announce": false,
-   "dates": [],
-   "travel": [],
-   "first_seen": "2026-10-09T03:47:45.063129+09:00"
-  },
   "508bf0563b251f95": {
    "id": "508bf0563b251f95",
    "title": "じゃらんnet、「じゃらんクーポンフェス」開催 クーポン追加配布開始 - TRAICY（トライシー）",
@@ -1389,20 +1332,6 @@
    "travel": [],
    "first_seen": "2026-10-11T21:38:26.545451+09:00"
   },
-  "bbd1a7e8f9fac6d3": {
-   "id": "bbd1a7e8f9fac6d3",
-   "title": "福島県「また来て。」割 第3期は2026年11月1日から12月25日宿泊分、第4期は2027年1月 3,000円割引の条件と予約方法 - 民泊専門メディア Airstair",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MYkx1RF92MWFHTGU2X2loM09QZG43V1hFanV0UVRqN3RyVjlJOHh3cU9hY00teWV2QngyXzh5ejBheHBlMnhqWXp3WHVQN29z?oc=5",
-   "source": "民泊専門メディア Airstair",
-   "published": "2026-10-06T09:00:00+09:00",
-   "announce": false,
-   "dates": [],
-   "travel": [
-    "2026-11-01",
-    "2026-12-25"
-   ],
-   "first_seen": "2026-10-11T21:38:26.545451+09:00"
-  },
   "4b20d42d5f12dbb3": {
    "id": "4b20d42d5f12dbb3",
    "title": "ヤフートラベル、「超得セール！ホテル・リゾートスペシャル」を開催中 全国の宿泊施設対象 - TRAICY（トライシー）",
@@ -1435,17 +1364,6 @@
    "dates": [
     "2026-10-19"
    ],
-   "travel": [],
-   "first_seen": "2026-10-12T09:26:35.724632+09:00"
-  },
-  "c35246443fd14781": {
-   "id": "c35246443fd14781",
-   "title": "【2026年10月】ヤフートラベルのクーポン最新まとめ JAL早期予約 最大5,000円引き・宿クーポン・超得セール！ - 民泊専門メディア Airstair",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5pWDlOTHl1LVRkODAwRDJsUUx1Y3J3d2FTUXJZLUljLWxlcUFWRnc3aS1iQ19LMWJJS091SE5IeGRjanhiaFU5Xw?oc=5",
-   "source": "民泊専門メディア Airstair",
-   "published": "2026-10-06T09:00:00+09:00",
-   "announce": false,
-   "dates": [],
    "travel": [],
    "first_seen": "2026-10-12T09:26:35.724632+09:00"
   },
@@ -9834,6 +9752,142 @@
    ],
    "travel": [],
    "first_seen": "2026-11-20T05:26:44.717292+09:00"
+  },
+  "c12d096f4a034851": {
+   "id": "c12d096f4a034851",
+   "title": "ANAにキュン、次回11月28日から開催！ツアー最大15万円割引クーポン配布など8企画【毎月29日はANA感謝の日】 - トラベラーズナビ",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41S1VSRFdyeEJnRXJFWGtDN1ZSQm01NWhGQ2dDU3J3UnBtWjBhcWV4SDZ5NW5KSG4yUHBYT21qdlE2bDlLMnFUUmZuUDV0RGRyZDBEUS1R?oc=5",
+   "source": "トラベラーズナビ",
+   "published": "2026-11-18T21:07:48+09:00",
+   "announce": false,
+   "dates": [
+    "2026-11-28"
+   ],
+   "travel": [],
+   "first_seen": "2026-11-20T11:13:50.966272+09:00"
+  },
+  "8a6df02b62f11a47": {
+   "id": "8a6df02b62f11a47",
+   "title": "スターフライヤー、ブラックフライデー特別企画「11月STARFRIDAY」を開催 台北線やダイナミックパッケージの割引クーポンを配布 - sky-budget スカイバジェット",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwQTl4TzQwaGFfbm00VzZOLVRkTl9MVGl4SnpkOFY5b1dKS1hlT0kxblc4RUxLbmw5a0gtczRuZ25PdHVZZDVVZHlfVVFQRWRmalJCTFo3TENMWkpRR0J4R3BB?oc=5",
+   "source": "sky-budget スカイバジェット",
+   "published": "2026-11-20T08:57:57+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-20T11:13:50.966272+09:00"
+  },
+  "da543a3bfc1d5a94": {
+   "id": "da543a3bfc1d5a94",
+   "title": "安っ！飛行機3696円〜、ホテル最大75％オフ！ 冬旅ブラックフライデーの目玉セールは？（アスキー） - Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GWXl5aGE5bjR1MnprWVlPN0cyTEQycGZuYXpXOThuZy1QWXAxU24xdGZMSHQ3c3NhM1Vqa09Tb0ZySjhOOXRGbmNGODdiTEhUVFZhRm5UZ3lHb0V1SzJoVlZYUmt2aHhNOGVjSWVPaU9nZjc5aGl3Ym9wY0FDV1E?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-11-18T07:30:00+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-20T11:13:50.966272+09:00"
+  },
+  "521e6237c2365d16": {
+   "id": "521e6237c2365d16",
+   "title": "【最大5万円引きクーポン配布中！】好きなフライトとホテルを自由に組み合わせて大幅割引になる、冬〜春の旅行応援キャンペーン - DXマガジン",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ILXNJLXlqUjhvSEltMkxjSjhWZF9EUTN0WDBUbnYyaWdDOFM2Ukdha1JtVlFhNVRfSUJkS1RsdndwVlRvZkVTSnlmVl93bGxMUUNtZ29Vbw?oc=5",
+   "source": "DXマガジン",
+   "published": "2026-11-17T17:52:06+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-20T11:13:50.966272+09:00"
+  },
+  "0f5e1bd1f45810e2": {
+   "id": "0f5e1bd1f45810e2",
+   "title": "ヤフーパックのブラックフライデー、最大5万円OFFクーポン＆PayPay最大10％還元 - トラベラーズナビ",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aa1c0RWtWMU9CNUE0VUZqV05sTml6ZklkOFBjZy1aZEptYlFpREo2U0F3Y2hlcnp1aVpUM0NLM0ctcEJEQWdOTU0yTExqWWtKOTdlWHYyYXQ?oc=5",
+   "source": "トラベラーズナビ",
+   "published": "2026-11-16T21:18:40+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-20T11:13:50.966272+09:00"
+  },
+  "a22c482072456bfd": {
+   "id": "a22c482072456bfd",
+   "title": "【最大50,000円OFF♪BLACK FRIDAY TIME SALE】スカイマーク公式ダイナミックパッケージ「たす旅」で最大5万円OFFクーポンを配布！年末年始・冬休みなど人気の日程は早い者勝ち - au Webポータル",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4ZnA5Zm5DZkFJWnNZUnhkYkNSWFJkeThLZi1PelgweUFPOVBTMG0wWUJvQVpDaXVQMWd1ZFkwWE5pczM3ZFh1RTVHLWZXNmFKbmdURExrNHdCdGJHQ2wwN2JMeEN2Q19mSDVBU0R3?oc=5",
+   "source": "au Webポータル",
+   "published": "2026-11-15T09:47:27+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-20T11:13:50.966272+09:00"
+  },
+  "db2a201b3f4a082f": {
+   "id": "db2a201b3f4a082f",
+   "title": "【クラウンプラザリゾートグアム・サイパン】「サイバーセール」12月3日(木)まで！会員最大30％オフ - ニコニコニュース",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwVVhiLThndTRCZzVlY0pSYnBpZlVhSC13aUF6U0hma0tCc2ZYdGo3RXFSVzRZbUNPRXJJY2NqQXZzNjQwUDlHampSblc4ZVgyTVdNM1JwSzJKMi1TUTRMN0hLRmV5RENj?oc=5",
+   "source": "ニコニコニュース",
+   "published": "2026-11-19T15:15:38+09:00",
+   "announce": false,
+   "dates": [
+    "2026-12-03"
+   ],
+   "travel": [],
+   "first_seen": "2026-11-20T11:13:50.966272+09:00"
+  },
+  "19bd4b4de9956605": {
+   "id": "19bd4b4de9956605",
+   "title": "\"ブラックフライデーセール\"開催決定！ 最大61％OFFでスイートルームや極上のグルメを堪能！ - ニコニコニュース",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBndzZuWF9vNjU2RjFtcEFYazFMSUplS19DSzVkcG00SFhyQ29XZndoWmdmSjNRNnptcmYyb1pkSHJ1a1RSUU5mbHFXN1d6YzNEYXAzYnRyYmRMYTZ4U0h1NVlpV0x6ZW5mb1BXOFU2VTd4LWtqOHRHb3gzOA?oc=5",
+   "source": "ニコニコニュース",
+   "published": "2026-11-19T03:00:18+09:00",
+   "announce": true,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-20T11:13:50.966272+09:00"
+  },
+  "fc510f2ead32ff67": {
+   "id": "fc510f2ead32ff67",
+   "title": "\"ホワイトフライデーセール\" 開催決定！ - ニコニコニュース",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84UUVjZUtsNnluY2R0MGNFUk9CQW1rUnNTcXZtZ041SUVtZExPSXNkdGgySnFSLXE2WUJhcHFmR0RxeWcyLWhPSU5nRDNtVkxjQlRuWHBSQmRseFBCWUllX2dDOHBVQ0N6Sk51emFOakVvUlM3TFJUWkt3RQ?oc=5",
+   "source": "ニコニコニュース",
+   "published": "2026-11-19T03:00:23+09:00",
+   "announce": true,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-20T11:13:50.966272+09:00"
+  },
+  "da4ed73efa548add": {
+   "id": "da4ed73efa548add",
+   "title": "旅行予約サービス『NEWT（ニュート）』、韓国観光公社 大阪支社と共同でブラックフライデー連動キャンペーンを実施 - ニコニコニュース",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92YVhxc2t0X0JoNDBTc3hoVjhEUkpFQ19tTkJxTXY1UF9Sc015b3Zfa3ZleHo0OFNtNkFfUzVfQm1RaUk5Tzh4NnFnZkY3N1pGTldVZ1ltZXlWQTJRSzZXeFBNVGtLdm1nazdXVnRtMFNDam5LUkc0VDdRZw?oc=5",
+   "source": "ニコニコニュース",
+   "published": "2026-11-20T01:00:34+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-20T11:13:50.966272+09:00"
+  },
+  "21e6b4de2d1163e1": {
+   "id": "21e6b4de2d1163e1",
+   "title": "プリファード ホテルズ&リゾーツとビヨンド グリーン「2026年サイバーセール」を発表 - ニコニコニュース",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sR21qN1Y2amh0OTJOTm95T2tfeDJOSzFweHBUWTJDcWZBT2dHN0JFdExHV3pRbVpmMkE4VWJkOS01LWZlbnVIXzJmSDMxMUhYMTZiVjZWY2doV09SUC05NDE4MkZ3NkRXMDhBVGhQUFFaSGtwb0MwWW1Qcw?oc=5",
+   "source": "ニコニコニュース",
+   "published": "2026-11-16T20:30:35+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-20T11:13:50.966272+09:00"
+  },
+  "54c6056b2f7daeab": {
+   "id": "54c6056b2f7daeab",
+   "title": "タイガーエア・台湾、3路線限定セール開催　片道10,100円から",
+   "link": "https://www.traicy.com/posts/20261119388543/",
+   "source": "Traicy",
+   "published": "2026-11-19T08:15:20+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-20T11:13:50.966272+09:00"
   }
  },
  "pages": {
@@ -9934,97 +9988,97 @@
    "url": "https://www.traicy.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-11-20T05:26:44.717292+09:00"
+   "checked": "2026-11-20T11:13:50.966272+09:00"
   },
   "Aviation Wire": {
    "url": "https://www.aviationwire.jp/feed",
    "ok": true,
    "note": "記事 10件",
-   "checked": "2026-11-20T05:26:44.717292+09:00"
+   "checked": "2026-11-20T11:13:50.966272+09:00"
   },
   "たびりす": {
    "url": "https://tabiris.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-11-20T05:26:44.717292+09:00"
+   "checked": "2026-11-20T11:13:50.966272+09:00"
   },
   "ANA 国内線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/",
    "ok": true,
    "note": "セール関連の文 26件",
-   "checked": "2026-11-20T05:26:44.717292+09:00"
+   "checked": "2026-11-20T11:13:50.966272+09:00"
   },
   "ANA 国際線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/international/theme/special_prj/",
    "ok": true,
    "note": "セール関連の文 15件",
-   "checked": "2026-11-20T05:26:44.717292+09:00"
+   "checked": "2026-11-20T11:13:50.966272+09:00"
   },
   "ANA 国内ツアータイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/domtour/",
    "ok": true,
    "note": "セール関連の文 13件",
-   "checked": "2026-11-20T05:26:44.717292+09:00"
+   "checked": "2026-11-20T11:13:50.966272+09:00"
   },
   "JAL 国内線タイムセール": {
    "url": "https://www.jal.co.jp/jp/ja/dom/special/timesale/",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-11-20T05:26:44.717292+09:00"
+   "checked": "2026-11-20T11:13:50.966272+09:00"
   },
   "Peach トップ": {
    "url": "https://www.flypeach.com/",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-20T05:26:44.717292+09:00"
+   "checked": "2026-11-20T11:13:50.966272+09:00"
   },
   "Peach セール": {
    "url": "https://www.flypeach.com/um/specials/sale/sale",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-20T05:26:44.717292+09:00"
+   "checked": "2026-11-20T11:13:50.966272+09:00"
   },
   "ジェットスター": {
    "url": "https://www.jetstar.com/jp/ja/deals",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-20T05:26:44.717292+09:00"
+   "checked": "2026-11-20T11:13:50.966272+09:00"
   },
   "スカイマーク": {
    "url": "https://www.skymark.co.jp/ja/",
    "ok": true,
    "note": "セール関連の文 2件",
-   "checked": "2026-11-20T05:26:44.717292+09:00"
+   "checked": "2026-11-20T11:13:50.966272+09:00"
   },
   "ZIPAIR": {
    "url": "https://www.zipair.net/ja",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-11-20T05:26:44.717292+09:00"
+   "checked": "2026-11-20T11:13:50.966272+09:00"
   },
   "スプリング・ジャパン": {
    "url": "https://jp.ch.com/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-11-20T05:26:44.717292+09:00"
+   "checked": "2026-11-20T11:13:50.966272+09:00"
   },
   "スターフライヤー": {
    "url": "https://www.starflyer.jp/",
    "ok": true,
    "note": "セール関連の文 5件",
-   "checked": "2026-11-20T05:26:44.717292+09:00"
+   "checked": "2026-11-20T11:13:50.966272+09:00"
   },
   "ソラシドエア": {
    "url": "https://www.solaseedair.jp/",
    "ok": true,
    "note": "セール関連の文 4件",
-   "checked": "2026-11-20T05:26:44.717292+09:00"
+   "checked": "2026-11-20T11:13:50.966272+09:00"
   },
   "AIRDO": {
    "url": "https://www.airdo.jp/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-11-20T05:26:44.717292+09:00"
+   "checked": "2026-11-20T11:13:50.966272+09:00"
   }
  }
 }
