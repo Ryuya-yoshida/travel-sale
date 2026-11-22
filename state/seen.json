@@ -13,17 +13,6 @@
    "first_seen": "2026-10-04T22:56:58.293329+09:00",
    "travel": []
   },
-  "508bf0563b251f95": {
-   "id": "508bf0563b251f95",
-   "title": "じゃらんnet、「じゃらんクーポンフェス」開催 クーポン追加配布開始 - TRAICY（トライシー）",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xeWpEY3JEYjV1aGZpS1hqYXJwVzdDQjZ5d29wUUQwTXNvWEZadV9mbXFaeU8yY0dlMnF4TjNWYzRDLVk4UnhjWVpwWUd5NTBZV3oyMHRZVQ?oc=5",
-   "source": "TRAICY（トライシー）",
-   "published": "2026-10-08T22:42:43+09:00",
-   "announce": true,
-   "dates": [],
-   "travel": [],
-   "first_seen": "2026-10-09T03:47:45.063129+09:00"
-  },
   "e891528e65225dbc": {
    "id": "e891528e65225dbc",
    "title": "【2026年最新】今がお得！JTB海外ツアータイムセールでハワイ旅行を計画しよう - Hawaii-ne ハワイいいね!!",
@@ -256,17 +245,6 @@
    "dates": [
     "2026-10-12"
    ],
-   "travel": [],
-   "first_seen": "2026-10-12T19:37:46.219734+09:00"
-  },
-  "6955e1743021a721": {
-   "id": "6955e1743021a721",
-   "title": "ベトナムデジタル決済デー2026に向けて、大規模セールが間​​もなく開催されます。 - Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ0Y3dHRYbmt2eGVZaExLeERMc2lKclNxVWNSMVZXb3p1V1AxcVNfMjBIN0wySkxvMjhack9OUUIteGRBcUpJMkxEQmJ6SnVjMjlJTEpPYTJZUHdUUm1XV3did3o5Zko5YlEzekJNQUZqSUhLNUV3aUJmR1V1aS1vT1p1VkdYQUZtUEhhR3Q3QzA3Q0k4?oc=5",
-   "source": "Vietnam.vn",
-   "published": "2026-10-08T22:46:27+09:00",
-   "announce": false,
-   "dates": [],
    "travel": [],
    "first_seen": "2026-10-12T19:37:46.219734+09:00"
   },
@@ -9407,6 +9385,28 @@
    "dates": [],
    "travel": [],
    "first_seen": "2026-11-22T20:05:05.407058+09:00"
+  },
+  "c85a14373b48d03b": {
+   "id": "c85a14373b48d03b",
+   "title": "ジャルパック、海外ダイナミックパッケージで「BLACK FLYDAY タイムセール」を実施中 最大5万円割引 - TRAICY（トライシー）",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVN0NUdllueXVuRGFpdDhDeFBlbEM0LVlZZDd1TFd4aGNZN0pVOUhmTTZIRTZZY0RFS19tMVVPOXd4NS0xMTZkbGJfTWYzbENyNGx0SXdsQQ?oc=5",
+   "source": "TRAICY（トライシー）",
+   "published": "2026-11-22T22:46:06+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-23T04:27:34.686941+09:00"
+  },
+  "b28747f3ef315bf0": {
+   "id": "b28747f3ef315bf0",
+   "title": "カナダ在住者向けブラックフライデー(Black Friday)セール情報一覧。70件以上 - LifeVancouver カナダ・バンクーバー現地情報",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94NTJqUnpabk1keE1oQXJZbHNBcUd3YU5DRmgxLXhQalE3YmE1VXQxVzBTQUowelljVWI5TUYyTGJwbUNoZGQwWTEzenVpYklCOFBKaDBrRndZU2s?oc=5",
+   "source": "LifeVancouver カナダ・バンクーバー現地情報",
+   "published": "2026-11-19T17:00:00+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-23T04:27:34.686941+09:00"
   }
  },
  "pages": {
@@ -9507,97 +9507,97 @@
    "url": "https://www.traicy.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-11-22T20:05:05.407058+09:00"
+   "checked": "2026-11-23T04:27:34.686941+09:00"
   },
   "Aviation Wire": {
    "url": "https://www.aviationwire.jp/feed",
    "ok": true,
    "note": "記事 10件",
-   "checked": "2026-11-22T20:05:05.407058+09:00"
+   "checked": "2026-11-23T04:27:34.686941+09:00"
   },
   "たびりす": {
    "url": "https://tabiris.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-11-22T20:05:05.407058+09:00"
+   "checked": "2026-11-23T04:27:34.686941+09:00"
   },
   "ANA 国内線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/",
    "ok": true,
    "note": "セール関連の文 26件",
-   "checked": "2026-11-22T20:05:05.407058+09:00"
+   "checked": "2026-11-23T04:27:34.686941+09:00"
   },
   "ANA 国際線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/international/theme/special_prj/",
    "ok": true,
    "note": "セール関連の文 15件",
-   "checked": "2026-11-22T20:05:05.407058+09:00"
+   "checked": "2026-11-23T04:27:34.686941+09:00"
   },
   "ANA 国内ツアータイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/domtour/",
    "ok": true,
    "note": "セール関連の文 13件",
-   "checked": "2026-11-22T20:05:05.407058+09:00"
+   "checked": "2026-11-23T04:27:34.686941+09:00"
   },
   "JAL 国内線タイムセール": {
    "url": "https://www.jal.co.jp/jp/ja/dom/special/timesale/",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-11-22T20:05:05.407058+09:00"
+   "checked": "2026-11-23T04:27:34.686941+09:00"
   },
   "Peach トップ": {
    "url": "https://www.flypeach.com/",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-22T20:05:05.407058+09:00"
+   "checked": "2026-11-23T04:27:34.686941+09:00"
   },
   "Peach セール": {
    "url": "https://www.flypeach.com/um/specials/sale/sale",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-22T20:05:05.407058+09:00"
+   "checked": "2026-11-23T04:27:34.686941+09:00"
   },
   "ジェットスター": {
    "url": "https://www.jetstar.com/jp/ja/deals",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-22T20:05:05.407058+09:00"
+   "checked": "2026-11-23T04:27:34.686941+09:00"
   },
   "スカイマーク": {
    "url": "https://www.skymark.co.jp/ja/",
    "ok": true,
    "note": "セール関連の文 2件",
-   "checked": "2026-11-22T20:05:05.407058+09:00"
+   "checked": "2026-11-23T04:27:34.686941+09:00"
   },
   "ZIPAIR": {
    "url": "https://www.zipair.net/ja",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-11-22T20:05:05.407058+09:00"
+   "checked": "2026-11-23T04:27:34.686941+09:00"
   },
   "スプリング・ジャパン": {
    "url": "https://jp.ch.com/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-11-22T20:05:05.407058+09:00"
+   "checked": "2026-11-23T04:27:34.686941+09:00"
   },
   "スターフライヤー": {
    "url": "https://www.starflyer.jp/",
    "ok": true,
    "note": "セール関連の文 5件",
-   "checked": "2026-11-22T20:05:05.407058+09:00"
+   "checked": "2026-11-23T04:27:34.686941+09:00"
   },
   "ソラシドエア": {
    "url": "https://www.solaseedair.jp/",
    "ok": true,
    "note": "セール関連の文 4件",
-   "checked": "2026-11-22T20:05:05.407058+09:00"
+   "checked": "2026-11-23T04:27:34.686941+09:00"
   },
   "AIRDO": {
    "url": "https://www.airdo.jp/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-11-22T20:05:05.407058+09:00"
+   "checked": "2026-11-23T04:27:34.686941+09:00"
   }
  }
 }
