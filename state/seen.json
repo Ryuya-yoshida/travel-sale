@@ -13,30 +13,6 @@
    "first_seen": "2026-10-04T22:56:58.293329+09:00",
    "travel": []
   },
-  "4616fa99cb7666cd": {
-   "id": "4616fa99cb7666cd",
-   "title": "JAL、国際線特典航空券のタイムセールを実施 欧米へ片道16,100マイルから - 千葉テレビ放送株式会社",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuQi1DX0dZVzdNZFdmeW1oOTk0SUluYW00ZTdQTVljbDc4MUstakFKWFZmRHZxU0xNUDB0VDdiVkVqQ2lSMmw1bGk2bzZ3QS1qSHJNWnMzdkdGbWswMEVn?oc=5",
-   "source": "千葉テレビ放送株式会社",
-   "published": "2026-10-10T13:02:50+09:00",
-   "announce": false,
-   "dates": [],
-   "travel": [],
-   "first_seen": "2026-10-10T18:42:45.196255+09:00"
-  },
-  "7fc775884aeaaeda": {
-   "id": "7fc775884aeaaeda",
-   "title": "JTB、「タイムセール」を10月21日まで開催中 シンガポール4日間10万円台からなど - TRAICY（トライシー）",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1iUWJLUjhaaVdGaXpUMGttV3ZGbWhuN0dWUkMtUkt5S0Zyck4xNmtIUXRoY3oyNW15UG1WX0lFRlphRkVDR1NZ?oc=5",
-   "source": "TRAICY（トライシー）",
-   "published": "2026-10-10T14:16:04+09:00",
-   "announce": false,
-   "dates": [
-    "2026-10-21"
-   ],
-   "travel": [],
-   "first_seen": "2026-10-10T18:42:45.196255+09:00"
-  },
   "63253e767e9ad045": {
    "id": "63253e767e9ad045",
    "title": "【2026年最新】全国旅行支援 ・宿泊割引まとめ｜自治体の割引クーポン・キャンペーンをエリア別に解説 - 補助金ポータル",
@@ -153,17 +129,6 @@
    "dates": [],
    "travel": [],
    "first_seen": "2026-10-13T06:13:11.733023+09:00"
-  },
-  "a7957de4af9a15e1": {
-   "id": "a7957de4af9a15e1",
-   "title": "ベトジェット航空は、全路線で1200万枚の割引航空券を販売開始した。 - Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GYlhpZE0wSjViNW5aRTU4MFN1NHZEWFlJSkgwREt1NGVVbEF5Q2p4cmg3b2NDZkFnaDIzQ1pFc2xrU2JYN3lSSGpFSkVEV1BQNlB4cUZrY240RWFTdW11UjNtdVBmY0tRT0hwWHNaUW1VMzdiNmpMbmxicw?oc=5",
-   "source": "Vietnam.vn",
-   "published": "2026-10-10T16:00:00+09:00",
-   "announce": true,
-   "dates": [],
-   "travel": [],
-   "first_seen": "2026-10-13T12:53:48.661720+09:00"
   },
   "941cfd3547500764": {
    "id": "941cfd3547500764",
@@ -9444,6 +9409,119 @@
    "dates": [],
    "travel": [],
    "first_seen": "2026-11-24T11:07:48.031492+09:00"
+  },
+  "734cdd3167c69c5c": {
+   "id": "734cdd3167c69c5c",
+   "title": "★エアトリ、最大4万円割引のブラックフライデーセール - 航空新聞社",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBYV3dsQUF5eEFDLVJrOVFEZjhWNVViWTJtSVQ5VFgzdmRUWXd4YlVEN0M5eDV6dEZxZ0hlX3dFaVZ1b19vRXA5LQ?oc=5",
+   "source": "航空新聞社",
+   "published": "2026-11-24T13:20:34+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-24T16:06:22.329995+09:00"
+  },
+  "5b453fb5db3855fa": {
+   "id": "5b453fb5db3855fa",
+   "title": "FDA「ブラックフライデーセール」11月25日から！ 札幌～福岡線10,000円など - FlyTeam",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JejR6bWNIZ2Y4aGIzOTgtTy14RUxOZDQzRXg2dUNPZmtLSEdCb0FaUDJjN0x4X3hvNWdpZU55S0I4dDBhNHc5clZEZUJzM00?oc=5",
+   "source": "FlyTeam",
+   "published": "2026-11-24T12:01:00+09:00",
+   "announce": false,
+   "dates": [
+    "2026-11-25"
+   ],
+   "travel": [],
+   "first_seen": "2026-11-24T16:06:22.329995+09:00"
+  },
+  "38d41b4da3e205a8": {
+   "id": "38d41b4da3e205a8",
+   "title": "Peach、国内線と国際線を対象に片道4,000円からのブラックフライデーセールを明日11月25日12時より開催 ソウルまで5,000円など - sky-budget スカイバジェット",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XTy1KX0hYLTR4SGJYQ01lSW9YNWxncmYyOTZGc1l6Vl8xY0d3Z2ctbkY0WllrSHlTWlZxVnJOTE1qc0JOVWc4U3ZKRExjWDRPZExQRG9DaFhZT0NyZVRtSnR4NHdGYWZGeWVxQVVaZw?oc=5",
+   "source": "sky-budget スカイバジェット",
+   "published": "2026-11-24T13:14:53+09:00",
+   "announce": false,
+   "dates": [
+    "2026-11-25"
+   ],
+   "travel": [],
+   "first_seen": "2026-11-24T16:06:22.329995+09:00"
+  },
+  "1c6a61d223f25d5b": {
+   "id": "1c6a61d223f25d5b",
+   "title": "スクート、日本発着路線を対象に片道19,500円からの「ブラックフライデー特別企画セール」を開催 - sky-budget スカイバジェット",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DQ2ZZdzNzZldhSHppd1RQUnhWY0ZXZ0xFNDFkUUYyak5ZUmhrT2NUaHBHWVJDYjY0d2hKZVoxR2Z0c1VjS0k1Tk4wN3JQNEdVMUFnbEVYRzlGWW5lVThvMGRQUQ?oc=5",
+   "source": "sky-budget スカイバジェット",
+   "published": "2026-11-24T13:10:08+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-24T16:06:22.329995+09:00"
+  },
+  "36ec4e59acf26145": {
+   "id": "36ec4e59acf26145",
+   "title": "Steam版セール開催！ 通常価格の最大50％OFF！ - アニメ！アニメ！",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMWlNfeEJ1NUxtVkM2WFZWX0g4OFJzUGU2QjJqaUNvb2NRbzlkaTc4RzltNHFwMU5qZnhnTG5rdkNRTjFIbTFLanZFUENLdDA0UGRMa2s0QTVIMEw5dUUzbkl5MlN6S09FVlE?oc=5",
+   "source": "アニメ！アニメ！",
+   "published": "2026-11-24T12:00:00+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-24T16:06:22.329995+09:00"
+  },
+  "53328055e689fa1c": {
+   "id": "53328055e689fa1c",
+   "title": "サクセス Steam(R)ゲームソフト「ブラックフライデーセール」開催！ - アニメ！アニメ！",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45ZWd3ZmM2a0tJbFNYeEc4T01TeXp4Rk16XzQzdVRzLXpkMnM1N2d4MUxTSUgtR3BzX1hoYzRZNFR6Y1NsaE0yVm1vVXA5VW5OcDBSWE1QSFdlVUl2R1A3cnpjc2VFZnlNSVE?oc=5",
+   "source": "アニメ！アニメ！",
+   "published": "2026-11-24T12:10:00+09:00",
+   "announce": false,
+   "dates": [],
+   "travel": [],
+   "first_seen": "2026-11-24T16:06:22.329995+09:00"
+  },
+  "54f6bbf1e0979715": {
+   "id": "54f6bbf1e0979715",
+   "title": "じゃらんの九州ふっこう応援割、11月24日予約再開！クーポン・セール併用割引まとめ - トラベラーズナビ",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oN29TRThYNDA5T05iaHowYklzNHI1cEpTTGNVZ0xhWWNENGZ1NngtcjUxOHRhTEJCTThjNzdEQ3FITFYtbDMzN3hUMFBsdm1zSFlLUFRORjFsT2RLdnRfY0c1RQ?oc=5",
+   "source": "トラベラーズナビ",
+   "published": "2026-11-24T00:00:55+09:00",
+   "announce": false,
+   "dates": [
+    "2026-11-24"
+   ],
+   "travel": [],
+   "first_seen": "2026-11-24T16:06:22.329995+09:00"
+  },
+  "c99e79080a46162f": {
+   "id": "c99e79080a46162f",
+   "title": "楽天トラベルの九州ふっこう応援割、11月25日予約再開！クーポン・セール併用割引まとめ - トラベラーズナビ",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rX05wWTlXZnNvTVFpYTFXZzdyTENUUEFCVnhMQU9lT2V4bWlhWlB6djh5MjNQcGg2VlFESnN4Y2pHRm1IbWVhXzZ0ZmtHUjEzTEQ4NVBUYkpyUFQxSkJTOUtsRllNZw?oc=5",
+   "source": "トラベラーズナビ",
+   "published": "2026-11-24T10:38:23+09:00",
+   "announce": false,
+   "dates": [
+    "2026-11-25"
+   ],
+   "travel": [],
+   "first_seen": "2026-11-24T16:06:22.329995+09:00"
+  },
+  "0a287c2ba2c9c314": {
+   "id": "0a287c2ba2c9c314",
+   "title": "ANA 国際線タイムセール｜販売期間:2026年11月25日(水)0:00~11月30日(月)23:59 搭乗期間:2026年12月1日(火)~2027年8月31日(火) *路線により搭乗期間・タイムセール運賃の適用除外期間が異なります。",
+   "link": "https://www.ana.co.jp/ja/jp/international/theme/special_prj/",
+   "source": "ANA 国際線タイムセール（公式）",
+   "published": "2026-11-24T16:06:22.329995+09:00",
+   "announce": true,
+   "dates": [
+    "2026-11-25",
+    "2026-11-30"
+   ],
+   "travel": [
+    "2026-12-01",
+    "2027-08-31"
+   ],
+   "first_seen": "2026-11-24T16:06:22.329995+09:00"
   }
  },
  "pages": {
@@ -9476,21 +9554,12 @@
    "販売期間:2026年11月13日(金)0:00~11月19日(木)23:59 搭乗期間:2027年1月4日(月)~3月27日(土)"
   ],
   "https://www.ana.co.jp/ja/jp/international/theme/special_prj/": [
-   "1 豊富なネットワークで行きたい国や希望のフライトが見つかる 数ある人気都市への直行便をセール運賃でご用意。あなたにぴったりのフライトを見つけよう。",
-   "3 よくあるご質問へ タイムセールを上手に活用して旅を計画! ご購入にあたっての不明点を解消しましょう。",
-   "ANAタイムセールのポイント",
-   "ANAマイレージクラブ会員でなくてもタイムセールの航空券は購入できますか。",
    "MYキャンペーン",
    "その他のセールもチェック!",
    "キャンペーンEdyの交換",
-   "セール中の国際線航空券",
    "セール運賃でもANAのマイルが貯まります。",
-   "タイムセールでよくある質問",
-   "タイムセール概要",
    "国際線航空券 タイムセール",
-   "掲載されている都市・路線以外もタイムセール対象ですか。",
-   "販売期間:2026年10月15日(木)0:00~10月21日(水)23:59 搭乗期間:2026年11月1日(日)~2027年7月31日(土)",
-   "販売期間:2026年10月15日(木)0:00~10月21日(水)23:59 搭乗期間:2026年11月1日(日)~2027年7月31日(土) *路線により搭乗期間・タイムセール運賃の適用除外期間が異なります。"
+   "販売期間:2026年11月25日(水)0:00~11月30日(月)23:59 搭乗期間:2026年12月1日(火)~2027年8月31日(火) *路線により搭乗期間・タイムセール運賃の適用除外期間が異なります。"
   ],
   "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/domtour/": [
    "MYキャンペーン",
@@ -9544,97 +9613,97 @@
    "url": "https://www.traicy.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-11-24T11:07:48.031492+09:00"
+   "checked": "2026-11-24T16:06:22.329995+09:00"
   },
   "Aviation Wire": {
    "url": "https://www.aviationwire.jp/feed",
    "ok": true,
    "note": "記事 10件",
-   "checked": "2026-11-24T11:07:48.031492+09:00"
+   "checked": "2026-11-24T16:06:22.329995+09:00"
   },
   "たびりす": {
    "url": "https://tabiris.com/feed",
    "ok": true,
    "note": "記事 30件",
-   "checked": "2026-11-24T11:07:48.031492+09:00"
+   "checked": "2026-11-24T16:06:22.329995+09:00"
   },
   "ANA 国内線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/sale/",
    "ok": true,
    "note": "セール関連の文 26件",
-   "checked": "2026-11-24T11:07:48.031492+09:00"
+   "checked": "2026-11-24T16:06:22.329995+09:00"
   },
   "ANA 国際線タイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/international/theme/special_prj/",
    "ok": true,
-   "note": "セール関連の文 15件",
-   "checked": "2026-11-24T11:07:48.031492+09:00"
+   "note": "セール関連の文 6件",
+   "checked": "2026-11-24T16:06:22.329995+09:00"
   },
   "ANA 国内ツアータイムセール": {
    "url": "https://www.ana.co.jp/ja/jp/domestic/theme/timesale/domtour/",
    "ok": true,
    "note": "セール関連の文 13件",
-   "checked": "2026-11-24T11:07:48.031492+09:00"
+   "checked": "2026-11-24T16:06:22.329995+09:00"
   },
   "JAL 国内線タイムセール": {
    "url": "https://www.jal.co.jp/jp/ja/dom/special/timesale/",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-11-24T11:07:48.031492+09:00"
+   "checked": "2026-11-24T16:06:22.329995+09:00"
   },
   "Peach トップ": {
    "url": "https://www.flypeach.com/",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-24T11:07:48.031492+09:00"
+   "checked": "2026-11-24T16:06:22.329995+09:00"
   },
   "Peach セール": {
    "url": "https://www.flypeach.com/um/specials/sale/sale",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-24T11:07:48.031492+09:00"
+   "checked": "2026-11-24T16:06:22.329995+09:00"
   },
   "ジェットスター": {
    "url": "https://www.jetstar.com/jp/ja/deals",
    "ok": false,
    "note": "ReadTimeout",
-   "checked": "2026-11-24T11:07:48.031492+09:00"
+   "checked": "2026-11-24T16:06:22.329995+09:00"
   },
   "スカイマーク": {
    "url": "https://www.skymark.co.jp/ja/",
    "ok": true,
    "note": "セール関連の文 2件",
-   "checked": "2026-11-24T11:07:48.031492+09:00"
+   "checked": "2026-11-24T16:06:22.329995+09:00"
   },
   "ZIPAIR": {
    "url": "https://www.zipair.net/ja",
    "ok": false,
    "note": "HTTP 403（アクセスを拒否された可能性）",
-   "checked": "2026-11-24T11:07:48.031492+09:00"
+   "checked": "2026-11-24T16:06:22.329995+09:00"
   },
   "スプリング・ジャパン": {
    "url": "https://jp.ch.com/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-11-24T11:07:48.031492+09:00"
+   "checked": "2026-11-24T16:06:22.329995+09:00"
   },
   "スターフライヤー": {
    "url": "https://www.starflyer.jp/",
    "ok": true,
    "note": "セール関連の文 5件",
-   "checked": "2026-11-24T11:07:48.031492+09:00"
+   "checked": "2026-11-24T16:06:22.329995+09:00"
   },
   "ソラシドエア": {
    "url": "https://www.solaseedair.jp/",
    "ok": true,
    "note": "セール関連の文 4件",
-   "checked": "2026-11-24T11:07:48.031492+09:00"
+   "checked": "2026-11-24T16:06:22.329995+09:00"
   },
   "AIRDO": {
    "url": "https://www.airdo.jp/",
    "ok": true,
    "note": "セール関連の文 1件",
-   "checked": "2026-11-24T11:07:48.031492+09:00"
+   "checked": "2026-11-24T16:06:22.329995+09:00"
   }
  }
 }
